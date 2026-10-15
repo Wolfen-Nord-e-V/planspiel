@@ -1,0 +1,251 @@
+# Wer baut Wolfen-Nord? – Regelwerk
+
+Stand: 15.10.2026 · Arbeitsstand, wird laufend überarbeitet (siehe [CHANGELOG](CHANGELOG.md))
+
+Ein kooperatives Planspiel auf dem Stadtplan des Quartiers 4.4. Die Teilnehmenden bauen und betreiben Orte, verhandeln um knappe Mittel und Kümmerzeit und gewinnen nur gemeinsam.
+
+- **Rahmen:** Station im World-Café des Zukunftslabors „Unsere Nachbarschaft im Wandel – was wünschen wir uns für das Zusammenleben in Wolfen-Nord“, 6.–8. November 2026, Christophorushaus.
+- **Durchgänge:** zwei, jeder auf einem eigenen Ausdruck des Stadtplans.
+- **Dauer:** 60–90 Minuten, je nachdem, ob ein gemeinsamer Rundgang vorab stattfindet.
+- **Gruppengröße:** ideal 6–10 Personen; bei weniger gelten Plan B oder Plan C.
+- **Spielziel:** Flächen erfolgreich aufteilen, kooperieren, Konflikte lösen.
+- **Ergebnis:** pro Durchgang ein fixierter Stadtplan mit aufgeklebten Karten, Holzplättchen und Washi-Tape.
+
+## Spielplan
+
+Der künstlerisch gestaltete Spielplan zeigt nur freigegebene Flächen und Gebäude. Ein eingegrenztes Angebot vermeidet Überforderung.
+
+- **Flächentypen:** Bauland, Grünland und benutzbare Gebäude. Mehr Kategorien gibt es bewusst nicht, damit Spielfreiheit bleibt.
+- **Keine Unterscheidung von Wohnen und Gewerbe:** Mischnutzung (Wohnen und gewerbliche Nutzung zusammen) ist erklärungsbedürftig. Diese Differenzierung gehört in eine Runde mit Fachleuten am Tisch.
+- **Abgrenzung:** Die Bebauungsgrenze aus dem Bebauungsplan Nr. 08-2020 „Experimentelles Wohnen“ (dort blau) wird auf dem Spielplan als Rahmen markiert, z. B. rot. Außerhalb davon wird nicht gebaut.
+- **Kapazität:** Jede Fläche fasst eine festgelegte Zahl an Flächenpunkten, jede Baukarte weist ihren Platzbedarf aus (1–3 Punkte). Vorschlag: 1 Flächenpunkt ≈ 250 m² überbaubare Fläche laut Flächenbilanz der Begründung zum Bebauungsplan.
+- **Knappheit:** Es gibt mehr Karten als Platz, dadurch entstehen Konflikte von selbst.
+
+### Freigegebene Flächen
+
+| Fläche | Bezeichnung im Bebauungsplan | Im Spiel | Kapazität (Vorschlag) | Herleitung |
+| --- | --- | --- | --- | --- |
+| Wiese an der Schule | TG 1.1 | Bauland | 6 | 1.635 m² überbaubar |
+| TG 2 | TG 2 | Bauland; Heckenumrandung im Plan weglassen | 5 | 1.316 m² überbaubar |
+| Fläche am 84er | TG 3 | Bauland (im Bebauungsplan experimentelles Mischgebiet) | 6 | 3.270 m² überbaubar, etwa die Hälfte frei |
+| Garagenhof | TG 4 | Bauland (im Bebauungsplan Mischgebiet) | 3 | 2.790 m² überbaubar, größtenteils Garagen |
+| Wiese am Spielplatz | M1 | Grünland, keine Wohnbebauung | 4 | geschätzt |
+| Grünfläche | p | Grünland | 4 | geschätzt |
+| Gemeinschaftsgarten | – | Grünland, grün markiert | 2 | geschätzt, Bestand |
+| Turnhalle | 1.2 | benutzbares Gebäude; blaue Linie im Plan kleiner zeichnen | 3 | geschätzt |
+
+### Benutzbare Gebäude
+
+| Gebäude | Kapazität (Vorschlag) | Anmerkung |
+| --- | --- | --- |
+| Kulturzentrum 84 | 2 | geschätzt; zählt auch als Bestand („Begegnung“, „Jung“) |
+| Garagen | 5 | 74 Garagen in 5 Gassen: A 6/7, B 7/7, C 7/8, D 8/9 westlich der Ausfahrtstraße, E 7/8 östlich; 1 Punkt je Gasse |
+| Christophorushaus, linke Hälfte | 2 | geschätzt |
+| Turnhalle | 3 | siehe oben |
+| Grünstraße 36 | 3 | geschätzt |
+
+Insgesamt ergeben sich etwa 45 Flächenpunkte. Die Nutzungsmöglichkeiten je Gebäude werden noch festgelegt.
+
+## Material
+
+Es gibt zwei knappe Ressourcen, Mittel und Kümmerzeit. Die Fläche begrenzt der Stadtplan selbst.
+
+| Element | Gestaltung | Funktion | Menge pro Durchgang (Vorschlag) |
+| --- | --- | --- | --- |
+| Stadtplan Quartier 4.4 | digital, künstlerisch gezeichnet; Bauflächen gerahmt; auf Trägerplatte | Spielfläche, wird am Ende fixiert | 1 |
+| Kümmer-Chips | runde Holzplättchen mit aufgeklebtem Smiley | Kümmerzeit, gemessen in Personen | ca. 60 % dessen, was die Wunschkarten zusammen verlangen |
+| Mittel-Chips | runde Holzplättchen oder Steine | Geld und Fördermittel | Startausstattung + 1 pro Person und Runde |
+| Baukarten | gestempelt, mit Kosten, Platzbedarf und Tags | siehe Baukarten | Grundset + Workshop-Ideen |
+| Holzklötzchen | mit Schlitz zum Reinstecken | Karten auf dem Plan positionieren | ca. 30 |
+| Blankokarten | frei beschreibbar | eigene Ideen | 20 |
+| Knete (optional) | – | 3D-Objekte | – |
+| Story-Karten | siehe Rollen-Stories | Rollen | 8 |
+| Wunschkarten | verdeckt, Wünsche auch mehrfach im Set | geheimes Ziel | mehr als Personen am Tisch |
+| Quartiersziel-Karten | offen | drei werden gezogen | 8 |
+| Ereigniskarten | siehe Ereigniskarten | Störungen zwischen den Runden | 10 |
+| Sondermarker | „gewachsen“, Vetochip, „befristet“ | Sonderregeln | je 1–2 |
+| Washi-Tape | mehrere Farben | Wege, Kooperationen, Abhängigkeiten | – |
+| Wollfaden | standardisierte Länge für 5 Minuten Fußweg | Erreichbarkeit messen | 1 |
+| Klebepunkte | grün, gelb, rot | Verorten zu Beginn | je 1 Bogen |
+| Legende | Symbole, Kurzanleitung, Leitfragen | liegt am Tisch | 1 |
+| Kleber und Klebeband | – | Ergebnis fixieren | – |
+
+Runde Holzplättchen statt Mühlesteinen, weil sie sich am Ende festkleben lassen. Die wichtigste Stellschraube beim Testen ist das Verhältnis der Kümmer-Chips.
+
+## Rollen und Perspektiven
+
+Vier Gruppen mit unterschiedlicher Startausstattung. So braucht jede Gruppe die anderen: Die Kümmernden haben Zeit, aber kein Geld, die Rahmengebenden Geld und Flächen, aber niemanden zum Aufschließen.
+
+| Gruppe | Fragt vor allem | Mittel | Kümmerzeit | Besonderheit |
+| --- | --- | --- | --- | --- |
+| Die Bleibenden | Was geht verloren, was hat sich bewährt? | 2 | 2 | Dürfen einen Ort als „gewachsen“ schützen; er kann nicht entfernt oder verdrängt werden. |
+| Die Ankommenden | Wofür würde man herziehen oder bleiben? | 2 | 1 | Dürfen einmal eine zweite Karte pro Runde legen („Neue Energie“). |
+| Die Rahmengebenden | Wem gehört die Fläche, welche Regeln gelten? | 5 | 1 | Vergeben die Flächen; Vetochip einmal pro Runde, mit Begründung. |
+| Die Kümmernden | Wer schließt morgens auf? | 1 | 4 | Dürfen Chips verleihen, gegen eine Gegenleistung. |
+
+- **Besetzung:** Die Gruppen sind entweder durch Anwesende natürlich vertreten oder werden über Story-Karten verteilt.
+- **Rahmengebende:** Bei kleinen Gruppen übernimmt die Spielleitung diese Rolle.
+- **Spielleitung:** einzige unverzichtbare Besetzung. Das Protokoll ist bei kleinen Gruppen durch Fotos und eine Sprachnotiz ersetzbar.
+
+### Rollen-Stories
+
+Jede Story hat eine Vergangenheit, einen Wunsch und eine Reibung – persönlich und anschaulich, aber nicht stereotyp. Alle Figuren sind erfunden.
+
+- **Renate, 79:** wohnt seit 1979 im Wohnkomplex 4.4, war früher im Chemiefaserwerk. Ihr Enkel studiert in Berlin und kommt zweimal im Jahr. Sie hat Zeit und kann gut organisieren, aber ihre Hüfte macht lange Wege schwer. Sie will einen Grund, dass der Enkel öfter kommt, und bremst alles, was nach „Abriss“ riecht.
+- **Jonas, 15:** langweilt sich, fährt mit dem Rad zur Schule in die Stadt. Er will einen Ort, der ihm gehört, und glaubt nicht, dass Erwachsene ihm den überlassen.
+- **Familie Yilmaz:** zwei kleine Kinder, vor einem Jahr wegen der Miete aus Leipzig hergezogen. Sie wollen bleiben, aber nur, wenn es Kita-Plätze und abends etwas Leben gibt.
+- **Marek, Imker:** hat 12 Völker und sucht eine feste Fläche. Er hat Zeit, aber kein Geld, und fürchtet Pestizide und Pflegeverbote auf Grünflächen.
+- **Frau Dr. Lehmann, Stadtverwaltung:** verwaltet die Flächen, hat aber Auflagen. Sie will etwas Vorzeigbares, aber nichts, das später auf den Haushalt zurückfällt.
+- **Herr Brandt, Wohnbaugesellschaft:** hat 300 Wohnungen mit Leerstand. Er will den Leerstand senken und ist offen für Zwischennutzung, solange sie ihn nichts kostet.
+- **Ines, Kita-Leitung:** braucht Außenfläche und Betreuung. Sie hat Personal, aber keine Zeit außerhalb der Dienstzeit.
+- **Dana, Verein:** ehrenamtlich, plant Feste und Gartentage. Sie ist es leid, dass alle die Idee gut finden, aber niemand aufschließt.
+
+## Spielregeln
+
+Ziel ist, die Flächen erfolgreich aufzuteilen, zu kooperieren und Konflikte zu lösen. Die Gruppe gewinnt gemeinsam, wenn am Ende die drei gezogenen Quartiersziele erfüllt sind. Geheime Wünsche sorgen für Reibung und Verhandlung.
+
+- **Kümmerzeit wird gebunden, nicht ausgegeben:** Der Kümmer-Chip liegt dauerhaft auf der Karte, solange der Ort betrieben wird. Er kommt nicht zurück, Nachschub gibt es nicht. So wird der Unterschied zwischen Bauen und Betreiben spürbar.
+- **Kümmerzeit kaufen:** Kümmerzeit kann mit Mitteln gekauft werden (Kurs noch offen).
+- **Mittel kommen nach:** zu Beginn jeder Runde 1 pro Person. Sie sind knapp, aber nicht der Flaschenhals.
+- **Fläche ist knapp:** Jede Fläche hat eine Kapazität, jede Karte einen Platzbedarf. Es gibt mehr Karten als Platz.
+- **Bauen:** Karte in ein Holzklötzchen stecken, auf eine freigegebene Fläche stellen, Kosten zahlen.
+- **Kombinationsbonus:** Liegen zwei Karten mit gemeinsamem Tag nebeneinander, spart eine von beiden 1 Kümmerzeit; der Chip geht zurück. Das gilt auch zu bestehenden Orten wie dem 84er oder dem Gemeinschaftsgarten. So wird der Bestand Teil des Spiels.
+- **Konflikte:** Zwei Karten auf einem Feld haben genau zwei Auswege. Teilen: Was geteilt wird und wie sich das auf die Ziele auswirkt, handelt die Gruppe in der Konfliktrunde offen aus – so wie in der Realität. Verlagern: Die Karte wandert, die Gruppe bekommt 1 Mittel Entschädigung.
+- **Washi-Tape:** Wege, Kooperationen und Abhängigkeiten werden geklebt. So entsteht ein Netz statt einer Ansammlung von Punkten.
+- **Ereignisse:** zwischen den Runden, siehe Ereigniskarten.
+
+### Quartiersziele
+
+Drei werden offen gezogen.
+
+- Drei Generationen nutzen mindestens einen Ort gemeinsam.
+- Von jeder Wohnkarte aus ist ein Treffpunkt in 5 Minuten erreichbar (mit dem standardisierten Wollfaden messen).
+- Mindestens ein Ort ist so ausgelegt, dass er auch nach Ende eines Förderprogramms weiterläuft.
+- Kein Chip bleibt unbenutzt, niemand ist übrig geblieben.
+- Es gibt einen Ort, der Einnahmen erzeugt (Hof, SoLaWi, Café).
+- Der 84er ist mit mindestens zwei Karten verbunden.
+- Mindestens die Hälfte der Fläche bleibt grün oder offen.
+- Jede Gruppe hat mindestens eine Karte gelegt.
+
+Laut Simulation sind „Treffpunkt in 5 Minuten“, „Läuft nach Förderende“ und „Jede Gruppe gelegt“ zu leicht und sollten geschärft werden.
+
+### Geheime Wünsche
+
+Ein Wunsch ist erfüllt, wenn die Bedingung am Ende stimmt. Wer ihn nicht verrät, kann ihn nur über Verhandlungen durchsetzen. Die Wünsche sind nicht an Gruppen gebunden: Jede Person kann aus allen Kategorien wählen, Wünsche dürfen mehrfach im Set vorkommen. Alternativ formulieren die Teilnehmenden ihren Wunsch selbst oder suchen sich eine Karte aus.
+
+- **Typisch für Bleibende:** „Ich möchte, dass der alte Weg zum Kaufmarkt wieder nutzbar ist.“ / „Ich will nicht, dass hier ein Gewerbehof entsteht.“ / „Ich will, dass der Trampelpfad erhalten bleibt.“
+- **Typisch für Ankommende:** „Ich will abends noch etwas unternehmen können.“ / „Ich brauche einen Ort für meine Kinder, ohne gleich Vereinsmitglied zu werden.“ / „Ich will in meinem Tiny House oder meiner Jurte auf der Wiese wohnen.“
+- **Typisch für Rahmengebende:** „Die Wohnungen sollen nicht leer stehen.“ / „Es darf keine Dauerbelastung für den Haushalt entstehen.“
+- **Typisch für Kümmernde:** „Ich möchte nicht mehr als zwei Orte alleine betreiben.“ / „Mein Verein soll sichtbarer werden.“
+
+## Baukarten (Entwurf)
+
+Kosten im Format Mittel / Kümmerzeit, Platzbedarf in Flächenpunkten. Die Tags oben auf der Karte zählen für den Kombinationsbonus. Billige Karten mit hoher Kümmerzeit wie der Jugendtreff sind gewollt; Spielplatz und Blühwiese gehen ohne Kümmerer, wirken dafür aber weniger.
+
+| Karte | Mittel | Kümmerzeit | Platz | Tags |
+| --- | --- | --- | --- | --- |
+| Kartoffelacker | 1 | 1 | 2 | Grün, Essen |
+| SoLaWi-Parzelle | 2 | 2 | 3 | Grün, Essen |
+| Blühwiese | 1 | 0 | 2 | Grün, Kinder |
+| Streuobstwiese | 1 | 1 | 2 | Grün, Alt |
+| Imkerei | 1 | 1 | 1 | Grün, Handwerk |
+| Regenrückhaltefläche | 2 | 0 | 2 | Grün (schützt vor Starkregen) |
+| Spielplatz | 2 | 0 | 2 | Kinder |
+| Bolzplatz | 1 | 0 | 3 | Jung |
+| Werkstatt / Repair-Café | 2 | 2 | 2 | Handwerk, Jung, Alt |
+| Kleingewerbe-Hof | 2 | 1 | 2 | Handwerk |
+| Jugendtreff | 1 | 2 | 2 | Jung, Begegnung |
+| Mehrgenerationen-Café | 2 | 2 | 2 | Alt, Kinder, Begegnung |
+| Gemeinschaftsküche | 2 | 2 | 2 | Essen, Begegnung |
+| Tausch- oder Bücherschrank | 0 | 1 | 1 | Begegnung |
+| Freiluftbühne | 2 | 1 | 2 | Begegnung, Jung |
+| Rufbus / Haltestelle | 3 | 1 | 1 | Weg |
+| Beleuchtete Wege und Bänke | 2 | 0 | 1 | Weg, Alt |
+| Umbau Leerstand | 3 | 1 | 2 | Wohnen |
+| Gemeinschaftswohnen (ca. 5–7 Tiny Houses) | 3 | 2 | 3 | Wohnen, Alt, Jung |
+| Blankokarte | am Tisch mit der Spielleitung ausgehandelt | | | frei |
+
+Schon die Auswahl der Karten gewichtet. Wenig bekannte Konzepte wie SoLaWi oder Bürgerladen brauchen eine sensible Einführung, z. B. zwei Sätze Erklärung auf der Kartenrückseite.
+
+## Ablauf Plan A (6–10 Personen)
+
+1. **Vorbereiten (5 min):** Spiel erklären, Gruppen und Story-Karten verteilen, Startausstattung ausgeben, drei Quartiersziele ziehen.
+2. **Verorten (10 min):** Klebepunkte setzen: grün „hier bin ich gern“, gelb „hier wohne ich“, rot „hier gehe ich nicht hin“.
+3. **Ideenmarkt (10 min):** Baukarten sichten, eigene Ideen auf Blankokarten entwickeln, Wunsch ziehen oder selbst formulieren.
+4. **Drei Bauphasen (40 min):** Zu Beginn jeder Runde 1 Mittel pro Person. Jede Person legt eine Karte und bezahlt sie, danach folgt ein Ereignis.
+5. **Konfliktrunde (15 min):** Doppelt belegte Felder teilen oder verlagern, Quartiersziele prüfen.
+6. **Optional: Zeitsprung 2035 (10 min):** Gemeinsam eine Postkarte aus dem Quartier der Zukunft formulieren.
+7. **Auswertung und Abschluss (10 min):** Ziele ablesen, geheime Wünsche aufdecken, das Washi-Tape-Netz anschauen. Frage an alle: Welche Orte hätten morgens wirklich jemanden zum Aufschließen gehabt? Danach alles festkleben und fotografieren.
+
+**Kurzfassung (ca. 60 min),** wenn der Rundgang vorab gemeinsam stattfindet: Verorten auf 5 Minuten kürzen und an den Rundgang anknüpfen, zwei statt drei Bauphasen, Zeitsprung entfällt.
+
+## Plan B und Plan C
+
+Entscheidungsregel: Sitzen zehn Minuten nach Beginn weniger als fünf Personen am Tisch, gilt Plan B. Bei ein bis zwei Personen gilt Plan C.
+
+**Plan B (3–5 Personen)**
+
+- Die Spielleitung spielt die Rahmengebenden und zieht die Ereignisse.
+- Die Teilnehmenden teilen die Bleibenden, die Ankommenden und die Kümmernden unter sich auf.
+- Ressourcen pro Kopf wie in Plan A, damit die Knappheit spürbar bleibt. Der volle Spielplan wird genutzt.
+- Zwei Bauphasen statt drei, die gewonnene Zeit fließt in die Konfliktrunde.
+- **Die Abwesenden als stille Mitspieler (auch in Plan A einsetzbar):** Die Bau-Elemente aus den Workshops oder ein bestimmtes Sortiment werden verdeckt gemischt. Jede Runde wird eines als „Antrag“ aufgedeckt: umsetzen, anpassen oder begründet ablehnen. Die Begründungen gehören ins Protokoll.
+
+**Plan C (1–2 Personen)**
+
+- Kein Spiel, sondern ein Kartengespräch: Punkte legen, aus dem Ideenmarkt wählen.
+- Die Spielleitung stellt die Leitfragen aus Sicht der fehlenden Perspektiven.
+- Ergebnis wie ein Leitfadeninterview mit Karte. Sprachnotiz statt Protokoll.
+
+## Leitfragen für die Spielleitung
+
+| Phase | Leitfragen |
+| --- | --- |
+| Verorten | Wo bist du gern? Wo gehst du nicht hin? Welcher Ort fehlt dir auf dem Weg vom Wohnhaus zum Einkaufen? |
+| Bauen | Was müsste hier sein, damit du in zehn Jahren noch hier wohnen willst oder herziehen würdest? Wer nutzt diesen Ort an einem Dienstagabend im Februar? |
+| Konflikt | Wer verliert etwas, wenn das hier entsteht? Wer kümmert sich, wer bezahlt, wer entscheidet? |
+| Zeitsprung | Was erzählst du 2035 jemandem, der zu Besuch kommt? |
+| Ernte | Was davon können wir morgen selbst anfangen, was geht nur mit Partnern, was braucht die Stadt? |
+
+## Ereigniskarten
+
+Jede Karte hat eine klare Wirkung. Die Liste ist ein Arbeitsstand zum Testen.
+
+| Ereignis | Wirkung |
+| --- | --- |
+| Förderprogramm endet | Alle Mittel-Chips, die für das Förderprogramm vergeben waren, verfallen; jede Gruppe gibt 1 Mittel ab. |
+| Kümmerin zieht weg | Eine Gruppe verliert 1 Kümmerzeit (gewürfelt oder gezogen); die betroffene Karte läuft im Notbetrieb. |
+| Dürresommer | Alle Grünkarten brauchen +1 Kümmerzeit oder werden zur Brache (umdrehen). Ein Hitzeschutzraum muss eingerichtet und betreut werden: +1 Kümmerzeit. |
+| Starkregen | Ohne Regenrückhaltefläche oder Grünkarte am Rand fallen Wege-Karten aus. |
+| Zwanzig neue Nachbarn | Jede Wohnkarte öffnet einen Chip: Wer eine Begegnungskarte nebenan hat, bekommt 1 Kümmerzeit dazu. |
+| Spende | Ein Sponsor gibt 3 Mittel, frei verteilbar, aber nur, wenn sich alle einig sind. |
+| Fläche nur für ein Jahr | Eine belegte Fläche wird ausgewählt und die Ereigniskarte daraufgelegt. Die Karte ist befristet und muss in der nächsten Runde verlängert oder verlagert werden; Diskussion im Rollenspiel. |
+| Sommerfest | Alle Begegnungsorte bringen 1 Mittel ein. |
+| Kita braucht Fläche | Ein Feld muss geräumt oder geteilt werden. |
+| Sanierung des Quartiers, Straßen- und Wegebau | Wohnkarten brauchen +1 Mittel, Mieter ziehen aus. Bei Gemeinschaftswohnen geht 1 Mittel-Chip weg, Einzelne haben die Option Hausverkauf. |
+
+**Variante zum Weiterdenken:** Ereignisse werden offen angekündigt („In Runde 3 droht Starkregen“), damit man vorsorgen kann. Das lehrt Resilienz mehr als reines Pech. Vorschlag: nach der ersten Runde ein erwartetes Ereignis, vor der Runde gezogen; nach der zweiten ein Zufallsereignis, nach der Runde gezogen.
+
+Gestrichen wurde „Buslinie gestrichen“, weil die Bedeutung der Wege in der Spieldynamik noch nicht klar ist.
+
+## Dokumentation und Auswertung
+
+Jeder Durchgang wird so festgehalten, dass sich alle Karten später übereinanderlegen lassen.
+
+- Nach jeder Bauphase ein Foto senkrecht von oben, immer aus gleicher Position.
+- Am Ende alles festkleben. Der fixierte Plan ist das Ergebnis des Durchgangs.
+- Plan beschriften: Datum, Uhrzeit, Plan A/B/C, Teilnehmendenzahl.
+- Begründungen bei abgelehnten Anträgen (Plan B) und Ergebnisse der Konfliktrunde notieren.
+- Postkarte 2035 fotografieren, falls gespielt.
+- Nach dem Zukunftslabor: beide Pläne vergleichen und als Exponate zeigen; die Fotos der Bauphasen zeigen, wie die Ideen entstanden sind.
+
+## Offene Spielfragen
+
+- Parzellierung: Wie werden die Flächen in Felder geteilt? Variieren die Kartengrößen nach Platzbedarf?
+- Liegen die Garagen auf TG 4, und wie viel freie Fläche bleibt dort?
+- M1 ist laut Begründung zum Bebauungsplan eine Ausgleichsmaßnahme mit Gehölzpflanzung (ca. 625 m²) – passt dort Spielnutzung?
+- Nutzungsmöglichkeiten je Gebäude festlegen.
+- Kurs für den Kauf von Kümmerzeit mit Mitteln.
+- Wie viele Exemplare je Baukarte liegen im Set? (Die Simulation hat mit zwei gerechnet.)
+- Rolle der Wege-Karten in der Spieldynamik.
+- Ereignisse offen ankündigen oder zufällig ziehen?
