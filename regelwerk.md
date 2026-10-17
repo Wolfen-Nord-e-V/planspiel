@@ -192,13 +192,13 @@ Die Flächen sollen laut Begründung zum Bebauungsplan nicht in Einzelgrundstüc
 >
 > *Danach:* Wohnkarten gehören der Genossenschaft. Jede Stimme zählt gleich – egal, wie viel jemand eingezahlt hat.
 
-**Sonderkarte „Mitglied werden – mein eigenes Häuschen“** (mehrere Exemplare)
+**Sonderkarte „Mitglied werden – mein eigenes Häuschen“** (liegt im Ideenmarkt, als einzige Karte mehrfach: 4 Exemplare)
 
 > **MITGLIED WERDEN – MEIN EIGENES HÄUSCHEN**
 >
-> Dein Tiny House, deine Jurte – auf gemeinsamem Grund. Du wohnst für dich und trägst mit allen.
+> Dein Tiny House, deine Jurte – bei der Wohnwiesengenossenschaft. Du wohnst für dich und trägst mit allen.
 >
-> *Beitritt:* 1 Mittel Anteil + 1 Kümmerzeit (Gemeinschaftsstunden). Du stellst deinen Haus-Marker auf eine freie Einheit im Gemeinschaftswohnen und zahlst ab der nächsten Runde 1 Mittel Miete je Runde in die Kasse.
+> *Beitritt:* 1 Mittel Anteil + 1 Kümmerzeit (Gemeinschaftsstunden). Du stellst deinen Haus-Marker auf eine freie Einheit im Gemeinschaftswohnen und zahlst ab der nächsten Runde 1 Mittel Miete je Runde an die Wohnwiesengenossenschaft.
 
 **Regeln**
 
@@ -206,6 +206,7 @@ Die Flächen sollen laut Begründung zum Bebauungsplan nicht in Einzelgrundstüc
 - **Genossenschaftskasse:** eine Schale neben dem Plan. Hinein gehen Anteile und Mieten, heraus die laufenden Kosten der Wohnprojekte. Alle Gruppen dürfen einzahlen.
 - **Wohnkarten legen:** Eine Person legt die Wohnkarte im Namen der Genossenschaft und zahlt die Baukosten. Kümmerzeit darf aus dem Pool der Genossenschaft kommen.
 - **Im Block mit der Wohnbaugesellschaft:** Den Umbau Leerstand können die Rahmengebenden bezahlen; die Genossenschaft übernimmt Belegung und Verwaltung (wie ein Generalmietvertrag).
+- **So entstehen die Häuschen:** Die Wohnkarte „Gemeinschaftswohnen“ steht für den gemeinsamen Grund mit Erschließung, Wasser, Strom und Gemeinschaftsflächen – sie stellt 6 Plätze bereit. Die Häuschen darauf entstehen einzeln: durch Mitglieder aus der Runde (Mitgliedskarte, eigener Haus-Marker) oder durch zuziehende Haushalte (Haushaltskarten, Bewohner-Marker). Ohne Wohnkarte kein Platz, ohne Genossenschaft keine Wohnkarte.
 - **Der Wunsch „Tiny House / Jurte“** ist erfüllt, wenn die Person Mitglied mit eigenem Haus-Marker ist.
 - **Plan B:** Die Genossenschaft besteht zu Spielbeginn schon (Kasse 2 Mittel). Mit so wenigen Personen kommt sonst kaum Wohnen zustande.
 
@@ -244,7 +245,7 @@ Schon die Auswahl der Karten gewichtet. Wenig bekannte Konzepte wie SoLaWi oder 
 
 1. **Vorbereiten (5 min):** Spiel erklären, Gruppen und Story-Karten verteilen, Startausstattung ausgeben, drei Quartiersziele ziehen.
 2. **Verorten (10 min):** Klebepunkte setzen: grün „hier bin ich gern“, gelb „hier wohne ich“, rot „hier gehe ich nicht hin“.
-3. **Ideenmarkt (10 min):** Baukarten sichten, eigene Ideen auf Blankokarten entwickeln, Wunsch ziehen oder selbst formulieren.
+3. **Ideenmarkt (10 min):** Baukarten sichten, eigene Ideen auf Blankokarten entwickeln, Wunsch ziehen oder selbst formulieren. Mit der Erweiterung „Wohngenossenschaft“ liegen dort auch die Mitgliedskarten – die einzigen Karten, die es mehrfach gibt.
 4. **Drei Bauphasen (40 min):** Zu Beginn jeder Runde 1 Mittel pro Person. Jede Person legt eine Karte und bezahlt sie, danach folgt ein Ereignis. Mit der Erweiterung „Wirtschaften und Wohnen“: zu Beginn jeder Runde zuerst Erträge und Miete einnehmen, Wohnkosten zahlen, Fördermittel ausgeben; nach dem Bauen Haushaltskarten aufdecken, dann das Ereignis.
 5. **Konfliktrunde (15 min):** Doppelt belegte Felder teilen oder verlagern, Quartiersziele prüfen.
 6. **Optional: Zeitsprung 2035 (10 min):** Gemeinsam eine Postkarte aus dem Quartier der Zukunft formulieren.

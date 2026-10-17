@@ -13,6 +13,7 @@ Neueste Einträge oben.
 - Fördermittel jetzt 1-1-0 statt 2-1-0 (Befund Lauf 4).
 - Plan B: Genossenschaft besteht zu Spielbeginn.
 - Regel-Simulation Lauf 4 zur Wohngenossenschaft.
+- Mitgliedskarte: Text nennt die Wohnwiesengenossenschaft; liegt als einzige Karte mehrfach im Ideenmarkt; erklärt, wie die Häuschen auf der Wohnkarte entstehen.
 
 ## 15.10.2026
 
