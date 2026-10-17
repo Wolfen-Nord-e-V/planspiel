@@ -14,6 +14,7 @@ Neueste Einträge oben.
 - Plan B: Genossenschaft besteht zu Spielbeginn.
 - Regel-Simulation Lauf 4 zur Wohngenossenschaft.
 - Mitgliedskarte: Text nennt die Wohnwiesengenossenschaft; liegt als einzige Karte mehrfach im Ideenmarkt; erklärt, wie die Häuschen auf der Wohnkarte entstehen.
+- Arbeitstitel der Genossenschaft: „Wohnwiesengenossenschaft“ (Name als offene Frage an Julia).
 
 ## 15.10.2026
 

@@ -66,7 +66,7 @@ Es gibt zwei knappe Ressourcen, Mittel und Kümmerzeit. Die Fläche begrenzt der
 | Sondermarker | „gewachsen“, Vetochip, „befristet“, „Stufe 2“, „Schieflage“ | Sonderregeln | je 1–3 |
 | Bewohner-Marker (Erweiterung) | kleine Figuren oder eigener Chip-Typ | belegte Wohneinheiten | ca. 15 |
 | Haushaltskarten (Erweiterung) | offen aufgedeckt | Zuzug | 18 |
-| Sonderkarte „Wohngenossenschaft gründen“ (Erweiterung) | mit Kartentext, siehe dort | Voraussetzung für Wohnkarten | 1 |
+| Sonderkarte „Wohnwiesengenossenschaft gründen“ (Erweiterung) | mit Kartentext, siehe dort | Voraussetzung für Wohnkarten | 1 |
 | Sonderkarte „Mitglied werden“ und Haus-Marker (Erweiterung) | eigene Häuschen-Figur je Person | Beitritt mit eigenem Tiny House | 4 |
 | Genossenschaftskasse (Erweiterung) | Schale | Anteile, Mieten, Wohnkosten | 1 |
 | Washi-Tape | mehrere Farben | Wege, Kooperationen, Abhängigkeiten | – |
@@ -153,7 +153,7 @@ Orte können sich tragen – oder eben nicht. Diese Erweiterung macht sichtbar, 
 
 **Ausbau.** Statt eine neue Karte zu legen, kann man einen eigenen Ertragsort einmal ausbauen: +1 Mittel, +1 Kümmerzeit, +1 Flächenpunkt auf derselben Fläche. Der Ort bringt dann 1 Mittel mehr. Am Tisch: zweites Klötzchen oder Marker „Stufe 2“.
 
-**Wohnprojekte.** Wohnkarten dürfen erst gelegt werden, wenn die Wohngenossenschaft gegründet ist (siehe nächster Abschnitt). Sie gehören der Genossenschaft und haben Wohneinheiten und laufende Kosten:
+**Wohnprojekte.** Wohnkarten dürfen erst gelegt werden, wenn die Wohnwiesengenossenschaft gegründet ist (siehe nächster Abschnitt). Sie gehören der Genossenschaft und haben Wohneinheiten und laufende Kosten:
 
 | Karte | Wohneinheiten | Kosten je Runde | trägt sich ab |
 | --- | --- | --- | --- |
@@ -180,11 +180,11 @@ Orte können sich tragen – oder eben nicht. Diese Erweiterung macht sichtbar, 
 
 ## Erweiterung: Wohngenossenschaft (17.10.2026)
 
-Die Flächen sollen laut Begründung zum Bebauungsplan nicht in Einzelgrundstücke aufgeteilt werden. Im Spiel gilt deshalb: Wohnen entsteht nur gemeinschaftlich. Es gibt genau eine Wohngenossenschaft, und sie muss erst gegründet werden.
+Die Flächen sollen laut Begründung zum Bebauungsplan nicht in Einzelgrundstücke aufgeteilt werden. Im Spiel gilt deshalb: Wohnen entsteht nur gemeinschaftlich. Es gibt genau eine Wohngenossenschaft, Arbeitstitel „Wohnwiesengenossenschaft“, und sie muss erst gegründet werden.
 
-**Sonderkarte „Wohngenossenschaft gründen“** (liegt neben dem Plan, belegt keine Fläche)
+**Sonderkarte „Wohnwiesengenossenschaft gründen“** (liegt neben dem Plan, belegt keine Fläche)
 
-> **WOHNGENOSSENSCHAFT GRÜNDEN**
+> **WOHNWIESENGENOSSENSCHAFT GRÜNDEN**
 >
 > Auf den Wiesen und in den leeren Blöcken entsteht Wohnraum nur gemeinsam. Die Flächen werden nicht in Einzelgrundstücke aufgeteilt – wer hier wohnen will, braucht eine Gemeinschaft, die plant, finanziert und trägt. **Ohne Genossenschaft keine Wohnungen.**
 >
@@ -325,6 +325,7 @@ Jeder Durchgang wird so festgehalten, dass sich alle Karten später übereinande
 - M1 ist laut Begründung zum Bebauungsplan eine Ausgleichsmaßnahme mit Gehölzpflanzung (ca. 625 m²) – passt dort Spielnutzung?
 - Nutzungsmöglichkeiten je Gebäude festlegen.
 - Kurs für den Kauf von Kümmerzeit mit Mitteln.
+- Name der Genossenschaft: Arbeitstitel „Wohnwiesengenossenschaft“ – hat Julia eine andere Idee? Sie verwaltet im Spiel auch den umgebauten Block.
 - Erweiterungen: Wer führt am Tisch die Kassen (Spielleitung oder eine Person aus der Gruppe)? Passen die zusätzlichen Phasen in 90 Minuten?
 - „Kein Chip übrig“ ist mit der Genossenschaft laut Simulation fast immer erreicht und muss neu gefasst werden.
 - In der Simulation kommt die Gründung immer schon in Runde 1 zustande. Ob das am Tisch auch so ist, zeigt erst der Testlauf – dort liegt die Hürde in der Einigung, nicht in den Zahlen.
