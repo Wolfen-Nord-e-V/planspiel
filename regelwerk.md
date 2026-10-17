@@ -1,6 +1,6 @@
 # Wer baut Wolfen-Nord? – Regelwerk
 
-Stand: 15.10.2026 · Arbeitsstand, wird laufend überarbeitet (siehe [CHANGELOG](CHANGELOG.md))
+Stand: 17.10.2026 · Arbeitsstand, wird laufend überarbeitet (siehe [CHANGELOG](CHANGELOG.md))
 
 Ein kooperatives Planspiel auf dem Stadtplan des Quartiers 4.4. Die Teilnehmenden bauen und betreiben Orte, verhandeln um knappe Mittel und Kümmerzeit und gewinnen nur gemeinsam.
 
@@ -63,7 +63,9 @@ Es gibt zwei knappe Ressourcen, Mittel und Kümmerzeit. Die Fläche begrenzt der
 | Wunschkarten | verdeckt, Wünsche auch mehrfach im Set | geheimes Ziel | mehr als Personen am Tisch |
 | Quartiersziel-Karten | offen | drei werden gezogen | 8 |
 | Ereigniskarten | siehe Ereigniskarten | Störungen zwischen den Runden | 10 |
-| Sondermarker | „gewachsen“, Vetochip, „befristet“ | Sonderregeln | je 1–2 |
+| Sondermarker | „gewachsen“, Vetochip, „befristet“, „Stufe 2“, „Schieflage“ | Sonderregeln | je 1–3 |
+| Bewohner-Marker (Erweiterung) | kleine Figuren oder eigener Chip-Typ | belegte Wohneinheiten | ca. 15 |
+| Haushaltskarten (Erweiterung) | offen aufgedeckt | Zuzug | 18 |
 | Washi-Tape | mehrere Farben | Wege, Kooperationen, Abhängigkeiten | – |
 | Wollfaden | standardisierte Länge für 5 Minuten Fußweg | Erreichbarkeit messen | 1 |
 | Klebepunkte | grün, gelb, rot | Verorten zu Beginn | je 1 Bogen |
@@ -106,7 +108,7 @@ Ziel ist, die Flächen erfolgreich aufzuteilen, zu kooperieren und Konflikte zu 
 
 - **Kümmerzeit wird gebunden, nicht ausgegeben:** Der Kümmer-Chip liegt dauerhaft auf der Karte, solange der Ort betrieben wird. Er kommt nicht zurück, Nachschub gibt es nicht. So wird der Unterschied zwischen Bauen und Betreiben spürbar.
 - **Kümmerzeit kaufen:** Kümmerzeit kann mit Mitteln gekauft werden (Kurs noch offen).
-- **Mittel kommen nach:** zu Beginn jeder Runde 1 pro Person. Sie sind knapp, aber nicht der Flaschenhals.
+- **Mittel kommen nach:** zu Beginn jeder Runde 1 pro Person. Sie sind knapp, aber nicht der Flaschenhals. Mit der Erweiterung „Wirtschaften und Wohnen“ sinkt der Nachschub stattdessen über die Runden (siehe dort).
 - **Fläche ist knapp:** Jede Fläche hat eine Kapazität, jede Karte einen Platzbedarf. Es gibt mehr Karten als Platz.
 - **Bauen:** Karte in ein Holzklötzchen stecken, auf eine freigegebene Fläche stellen, Kosten zahlen.
 - **Kombinationsbonus:** Liegen zwei Karten mit gemeinsamem Tag nebeneinander, spart eine von beiden 1 Kümmerzeit; der Chip geht zurück. Das gilt auch zu bestehenden Orten wie dem 84er oder dem Gemeinschaftsgarten. So wird der Bestand Teil des Spiels.
@@ -138,32 +140,69 @@ Ein Wunsch ist erfüllt, wenn die Bedingung am Ende stimmt. Wer ihn nicht verrä
 - **Typisch für Rahmengebende:** „Die Wohnungen sollen nicht leer stehen.“ / „Es darf keine Dauerbelastung für den Haushalt entstehen.“
 - **Typisch für Kümmernde:** „Ich möchte nicht mehr als zwei Orte alleine betreiben.“ / „Mein Verein soll sichtbarer werden.“
 
+## Erweiterung: Wirtschaften und Wohnen (Entwurf, 17.10.2026)
+
+Orte können sich tragen – oder eben nicht. Diese Erweiterung macht sichtbar, dass Projekte wirtschaften müssen und dass Wohnen nur zusammen mit dem Quartier funktioniert. Die Zahlen sind Vorschläge aus der [Simulation Lauf 3](simulation/README.md#lauf-3--wirtschaften-und-wohnen-17102026) und noch nicht am Tisch getestet.
+
+**Fördermittel laufen aus.** Der feste Mittel-Nachschub sinkt: Runde 1: 2 pro Person, Runde 2: 1, Runde 3: 0. Gleichzeitig wachsen die eigenen Einnahmen. Das bildet den Übergang von der Projektförderung zur Verstetigung ab.
+
+**Erträge.** Ab Runde 2 bringt jeder wirtschaftende Ort zu Beginn der Runde 1 Mittel ein (siehe Spalte „Ertrag“ bei den Baukarten). Bedingung: Auf der Karte ist Kümmerzeit gebunden – ohne Kümmerer keine Ernte und kein Honig.
+
+**Ausbau.** Statt eine neue Karte zu legen, kann man einen eigenen Ertragsort einmal ausbauen: +1 Mittel, +1 Kümmerzeit, +1 Flächenpunkt auf derselben Fläche. Der Ort bringt dann 1 Mittel mehr. Am Tisch: zweites Klötzchen oder Marker „Stufe 2“.
+
+**Wohnprojekte.** Wohnkarten haben Wohneinheiten und laufende Kosten:
+
+| Karte | Wohneinheiten | Kosten je Runde | trägt sich ab |
+| --- | --- | --- | --- |
+| Umbau Leerstand (Block) | 8 | 2 Mittel | 2 Haushalten |
+| Gemeinschaftswohnen (Tiny Houses auf der Wiese) | 6 | 2 Mittel | 2 Haushalten |
+
+- Jeder Haushalt zahlt 1 Mittel Miete je Runde. Ab Runde 2 werden Miete eingenommen und Kosten bezahlt.
+- Kann das Projekt seine Kosten nicht zahlen, gerät es in Schieflage (Marker). Beim zweiten Mal wird die Karte umgedreht.
+
+**Zuzug.** Nach jeder Bauphase deckt die Spielleitung 3 Haushaltskarten auf (Plan B: 2). Jeder Haushalt zieht nur ein, wenn es eine freie Wohneinheit gibt und auf derselben Fläche ein Ort mit seinem Tag steht. Sonst zieht er woanders hin und kommt auf den Stapel „verlorene Nachbarn“, der am Ende sichtbar auf dem Tisch liegt.
+
+| Haushaltskarte | braucht in der Nähe | Anzahl im Stapel |
+| --- | --- | --- |
+| Familie mit Kindern | Kinder | 4 |
+| Rentnerpaar | Alt | 4 |
+| Homeoffice-Paar | Begegnung | 4 |
+| Handwerkerin | Handwerk | 2 |
+| Jugendliche WG | Jung | 2 |
+| Paar ohne Auto | Weg | 2 |
+
+**Neue Nachbarn packen mit an.** Je zwei eingezogene Haushalte bringen 1 neuen Kümmer-Chip. Diese Chips zählen beim Ziel „Kein Chip übrig“ nicht mit, das Ziel bezieht sich auf die Startausstattung.
+
+**Mögliche neue Quartiersziele:** „Mindestens ein Wohnprojekt trägt sich“ (laut Simulation in ca. 95 % der Partien erreicht, also eher zu leicht) und „Höchstens zwei Haushalte verloren“ (noch nicht simuliert).
+
 ## Baukarten (Entwurf)
 
 Kosten im Format Mittel / Kümmerzeit, Platzbedarf in Flächenpunkten. Die Tags oben auf der Karte zählen für den Kombinationsbonus. Billige Karten mit hoher Kümmerzeit wie der Jugendtreff sind gewollt; Spielplatz und Blühwiese gehen ohne Kümmerer, wirken dafür aber weniger.
 
-| Karte | Mittel | Kümmerzeit | Platz | Tags |
-| --- | --- | --- | --- | --- |
-| Kartoffelacker | 1 | 1 | 2 | Grün, Essen |
-| SoLaWi-Parzelle | 2 | 2 | 3 | Grün, Essen |
-| Blühwiese | 1 | 0 | 2 | Grün, Kinder |
-| Streuobstwiese | 1 | 1 | 2 | Grün, Alt |
-| Imkerei | 1 | 1 | 1 | Grün, Handwerk |
-| Regenrückhaltefläche | 2 | 0 | 2 | Grün (schützt vor Starkregen) |
-| Spielplatz | 2 | 0 | 2 | Kinder |
-| Bolzplatz | 1 | 0 | 3 | Jung |
-| Werkstatt / Repair-Café | 2 | 2 | 2 | Handwerk, Jung, Alt |
-| Kleingewerbe-Hof | 2 | 1 | 2 | Handwerk |
-| Jugendtreff | 1 | 2 | 2 | Jung, Begegnung |
-| Mehrgenerationen-Café | 2 | 2 | 2 | Alt, Kinder, Begegnung |
-| Gemeinschaftsküche | 2 | 2 | 2 | Essen, Begegnung |
-| Tausch- oder Bücherschrank | 0 | 1 | 1 | Begegnung |
-| Freiluftbühne | 2 | 1 | 2 | Begegnung, Jung |
-| Rufbus / Haltestelle | 3 | 1 | 1 | Weg |
-| Beleuchtete Wege und Bänke | 2 | 0 | 1 | Weg, Alt |
-| Umbau Leerstand | 3 | 1 | 2 | Wohnen |
-| Gemeinschaftswohnen (ca. 5–7 Tiny Houses) | 3 | 2 | 3 | Wohnen, Alt, Jung |
-| Blankokarte | am Tisch mit der Spielleitung ausgehandelt | | | frei |
+| Karte | Mittel | Kümmerzeit | Platz | Tags | Ertrag* |
+| --- | --- | --- | --- | --- | --- |
+| Kartoffelacker | 1 | 1 | 2 | Grün, Essen | 1 |
+| SoLaWi-Parzelle | 2 | 2 | 3 | Grün, Essen | 1 |
+| Blühwiese | 1 | 0 | 2 | Grün, Kinder | – |
+| Streuobstwiese | 1 | 1 | 2 | Grün, Alt | – |
+| Imkerei | 1 | 1 | 1 | Grün, Handwerk | 1 |
+| Regenrückhaltefläche | 2 | 0 | 2 | Grün (schützt vor Starkregen) | – |
+| Spielplatz | 2 | 0 | 2 | Kinder | – |
+| Bolzplatz | 1 | 0 | 3 | Jung | – |
+| Werkstatt / Repair-Café | 2 | 2 | 2 | Handwerk, Jung, Alt | – |
+| Kleingewerbe-Hof | 2 | 1 | 2 | Handwerk | 1 |
+| Jugendtreff | 1 | 2 | 2 | Jung, Begegnung | – |
+| Mehrgenerationen-Café | 2 | 2 | 2 | Alt, Kinder, Begegnung | 1 |
+| Gemeinschaftsküche | 2 | 2 | 2 | Essen, Begegnung | – |
+| Tausch- oder Bücherschrank | 0 | 1 | 1 | Begegnung | – |
+| Freiluftbühne | 2 | 1 | 2 | Begegnung, Jung | – |
+| Rufbus / Haltestelle | 3 | 1 | 1 | Weg | – |
+| Beleuchtete Wege und Bänke | 2 | 0 | 1 | Weg, Alt | – |
+| Umbau Leerstand | 3 | 1 | 2 | Wohnen | Miete, 8 Einheiten |
+| Gemeinschaftswohnen (ca. 5–7 Tiny Houses) | 3 | 2 | 3 | Wohnen, Alt, Jung | Miete, 6 Einheiten |
+| Blankokarte | am Tisch mit der Spielleitung ausgehandelt | | | frei | |
+
+\* nur mit der Erweiterung „Wirtschaften und Wohnen“; Mittel je Runde ab Runde 2, nur mit gebundener Kümmerzeit.
 
 Schon die Auswahl der Karten gewichtet. Wenig bekannte Konzepte wie SoLaWi oder Bürgerladen brauchen eine sensible Einführung, z. B. zwei Sätze Erklärung auf der Kartenrückseite.
 
@@ -172,7 +211,7 @@ Schon die Auswahl der Karten gewichtet. Wenig bekannte Konzepte wie SoLaWi oder 
 1. **Vorbereiten (5 min):** Spiel erklären, Gruppen und Story-Karten verteilen, Startausstattung ausgeben, drei Quartiersziele ziehen.
 2. **Verorten (10 min):** Klebepunkte setzen: grün „hier bin ich gern“, gelb „hier wohne ich“, rot „hier gehe ich nicht hin“.
 3. **Ideenmarkt (10 min):** Baukarten sichten, eigene Ideen auf Blankokarten entwickeln, Wunsch ziehen oder selbst formulieren.
-4. **Drei Bauphasen (40 min):** Zu Beginn jeder Runde 1 Mittel pro Person. Jede Person legt eine Karte und bezahlt sie, danach folgt ein Ereignis.
+4. **Drei Bauphasen (40 min):** Zu Beginn jeder Runde 1 Mittel pro Person. Jede Person legt eine Karte und bezahlt sie, danach folgt ein Ereignis. Mit der Erweiterung „Wirtschaften und Wohnen“: zu Beginn jeder Runde zuerst Erträge und Miete einnehmen, Wohnkosten zahlen, Fördermittel ausgeben; nach dem Bauen Haushaltskarten aufdecken, dann das Ereignis.
 5. **Konfliktrunde (15 min):** Doppelt belegte Felder teilen oder verlagern, Quartiersziele prüfen.
 6. **Optional: Zeitsprung 2035 (10 min):** Gemeinsam eine Postkarte aus dem Quartier der Zukunft formulieren.
 7. **Auswertung und Abschluss (10 min):** Ziele ablesen, geheime Wünsche aufdecken, das Washi-Tape-Netz anschauen. Frage an alle: Welche Orte hätten morgens wirklich jemanden zum Aufschließen gehabt? Danach alles festkleben und fotografieren.
@@ -246,6 +285,7 @@ Jeder Durchgang wird so festgehalten, dass sich alle Karten später übereinande
 - M1 ist laut Begründung zum Bebauungsplan eine Ausgleichsmaßnahme mit Gehölzpflanzung (ca. 625 m²) – passt dort Spielnutzung?
 - Nutzungsmöglichkeiten je Gebäude festlegen.
 - Kurs für den Kauf von Kümmerzeit mit Mitteln.
-- Wie viele Exemplare je Baukarte liegen im Set? (Die Simulation hat mit zwei gerechnet.)
+- Wie viele Exemplare je Baukarte liegen im Set? Lauf 1 und 2 haben mit zwei gerechnet; laut Lauf 3 funktioniert die Erweiterung „Wirtschaften und Wohnen“ mit einem Exemplar je Karte deutlich besser.
+- Erweiterung „Wirtschaften und Wohnen“: Wer führt am Tisch die Kasse (Spielleitung oder eine Person aus der Gruppe)? Passt die zusätzliche Phase in 90 Minuten?
 - Rolle der Wege-Karten in der Spieldynamik.
 - Ereignisse offen ankündigen oder zufällig ziehen?

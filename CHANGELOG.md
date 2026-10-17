@@ -2,6 +2,12 @@
 
 Neueste Einträge oben.
 
+## 17.10.2026
+
+- Erweiterung „Wirtschaften und Wohnen“ als Entwurf im Regelwerk: auslaufende Fördermittel (2, 1, 0), Erträge wirtschaftender Orte (1 Mittel je Runde mit gebundener Kümmerzeit), Ausbau, Wohnprojekte mit Wohneinheiten, Kosten und Miete, Zuzug über Haushaltskarten, neue Kümmer-Chips durch Zuzug.
+- Baukarten-Tabelle um Spalte „Ertrag“ ergänzt.
+- Regel-Simulation Lauf 3 mit Empfehlung: ein Exemplar je Karte, Wohnkosten 2, Ertrag 1, Zuzug-Chips zählen nicht für „Kein Chip übrig“.
+
 ## 15.10.2026
 
 - Repository angelegt: Regelwerk, Simulation, Änderungsliste.
