@@ -12,6 +12,8 @@ Neueste Einträge oben.
 - Regel-Simulation Lauf 5.
 - Kapazität der Wiese an der Turnhalle bestätigt; Plan B ohne die Ziele „Kein gewachsener Ort“ und „Jede Gruppe gelegt“.
 - Erweiterung „Wirtschaft & Wohnwiesengenossenschaft“ vorerst abgeschlossen; nächster Schritt: Zielformulierungen überarbeiten.
+- Flächennamen angepasst: TG 2 heißt „Tinyhouse Wiese“, TG 3 „Kulturzentrum 84“ (das Gebäude „Kulturzentrum 84 (Gebäude)“), Fläche p „Grünanlagen 84er“; TG 1.1, TG 1.2 und TG 2 stehen in der Flächenliste untereinander.
+- Quartiersziel „Treffpunkt in 5 Minuten“ entfernt (im kleinen Plangebiet immer erfüllt), dazu der Wollfaden im Material. „Hälfte grün/offen“ war schon entfernt.
 
 ## 17.10.2026
 

@@ -26,12 +26,12 @@ Der künstlerisch gestaltete Spielplan zeigt nur freigegebene Flächen und Gebä
 | Fläche | Bezeichnung im Bebauungsplan | Im Spiel | Kapazität (Vorschlag) | Herleitung |
 | --- | --- | --- | --- | --- |
 | Wiese an der Schule | TG 1.1 | Bauland | 6 | 1.635 m² überbaubar |
-| TG 2 | TG 2 | Bauland; Heckenumrandung im Plan weglassen | 5 | 1.316 m² überbaubar |
-| Fläche am 84er | TG 3 | Bauland (im Bebauungsplan experimentelles Mischgebiet) | 6 | 3.270 m² überbaubar, etwa die Hälfte frei |
+| Wiese an der Turnhalle | TG 1.2 | Bauland | 4 | geschätzt: TG 1.2 ohne Turnhalle (1.935 m² überbaubar), bestätigt |
+| Tinyhouse Wiese | TG 2 | Bauland; Heckenumrandung im Plan weglassen | 5 | 1.316 m² überbaubar |
+| Kulturzentrum 84 | TG 3 | Bauland (im Bebauungsplan experimentelles Mischgebiet) | 6 | 3.270 m² überbaubar, etwa die Hälfte frei |
 | Garagenhof | TG 4 | Bauland (im Bebauungsplan Mischgebiet) | 3 | 2.790 m² überbaubar, größtenteils Garagen |
 | Wiese am Spielplatz | M1 | Grünland, keine Wohnbebauung | 4 | geschätzt |
-| Grünfläche | p | Grünland | 4 | geschätzt |
-| Wiese an der Turnhalle | TG 1.2 | Bauland | 4 | geschätzt: TG 1.2 ohne Turnhalle (1.935 m² überbaubar), bestätigt |
+| Grünanlagen 84er | p (Park) | Grünland | 4 | geschätzt |
 | Gemeinschaftsgarten | – (Grundstück der Kirchengemeinde östlich von TG 1.2, außerhalb des Bebauungsplans) | Grünland, grün markiert; Nutzung verhandelbar | 4 | geschätzt, Platz für mehr |
 | Turnhalle | 1.2 | benutzbares Gebäude; blaue Linie im Plan kleiner zeichnen | 3 | geschätzt |
 
@@ -39,7 +39,7 @@ Der künstlerisch gestaltete Spielplan zeigt nur freigegebene Flächen und Gebä
 
 | Gebäude | Kapazität (Vorschlag) | Anmerkung |
 | --- | --- | --- |
-| Kulturzentrum 84 | 2 | geschätzt; zählt auch als Bestand („Begegnung“, „Jung“) |
+| Kulturzentrum 84 (Gebäude) | 2 | geschätzt; zählt auch als Bestand („Begegnung“, „Jung“) |
 | Garagen | 5 | 74 Garagen in 5 Gassen: A 6/7, B 7/7, C 7/8, D 8/9 westlich der Ausfahrtstraße, E 7/8 östlich; 1 Punkt je Gasse |
 | Christophorushaus, linke Hälfte | 2 | geschätzt |
 | Turnhalle | 3 | siehe oben |
@@ -94,7 +94,6 @@ Es gibt zwei knappe Ressourcen, Mittel und Kümmerzeit. Die Fläche begrenzt der
 | Bestands- und Störungsmarker | vorbereitet (siehe Bestand und Störungen) + leere für die Verorten-Phase | gewachsene Nutzungen, Belastungen | 5 + 3 Störungen + 6 leere |
 | Genossenschaftskasse (Erweiterung) | Schale | Anteile, Mieten, Wohnkosten | 1 |
 | Washi-Tape | mehrere Farben | Wege, Kooperationen, Abhängigkeiten | – |
-| Wollfaden | standardisierte Länge für 5 Minuten Fußweg | Erreichbarkeit messen | 1 |
 | Klebepunkte | grün, gelb, rot | Verorten zu Beginn | je 1 Bogen |
 | Legende | Symbole, Kurzanleitung, Leitfragen | liegt am Tisch | 1 |
 | Kleber und Klebeband | – | Ergebnis fixieren | – |
@@ -148,7 +147,6 @@ Ziel ist, die Flächen erfolgreich aufzuteilen, zu kooperieren und Konflikte zu 
 Drei werden offen gezogen.
 
 - Drei Generationen nutzen mindestens einen Ort gemeinsam.
-- Von jeder Wohnkarte aus ist ein Treffpunkt in 5 Minuten erreichbar (mit dem standardisierten Wollfaden messen).
 - Mindestens ein Ort ist so ausgelegt, dass er auch nach Ende eines Förderprogramms weiterläuft.
 - Kein Chip bleibt unbenutzt, niemand ist übrig geblieben.
 - Es gibt einen Ort, der Einnahmen erzeugt (Hof, SoLaWi, Café).
@@ -157,7 +155,7 @@ Drei werden offen gezogen.
 - Kein gewachsener Ort geht verloren (auch der Kartoffelacker auf Probe nicht).
 - Jede Gruppe hat mindestens eine Karte gelegt.
 
-Laut Simulation sind „Treffpunkt in 5 Minuten“, „Läuft nach Förderende“ und „Jede Gruppe gelegt“ zu leicht und sollten geschärft werden. „Hälfte grün/offen“ ist entfallen: Die niedrige Grundflächenzahl im Bebauungsplan stellt das schon sicher, und die Flächenkapazitäten bilden sie ab.
+Laut Simulation sind „Läuft nach Förderende“ und „Jede Gruppe gelegt“ zu leicht und sollten geschärft werden. Entfallen sind „Hälfte grün/offen“ (die niedrige Grundflächenzahl im Bebauungsplan stellt das schon sicher, und die Flächenkapazitäten bilden sie ab) und „Treffpunkt in 5 Minuten“ (im kleinen Plangebiet immer erfüllt).
 
 ### Geheime Wünsche
 
