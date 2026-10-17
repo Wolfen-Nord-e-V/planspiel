@@ -2,6 +2,20 @@
 
 Neueste Einträge oben.
 
+## 18.10.2026
+
+- Bestand und Störungen auf dem Plan: Gemeinschaftsgarten, Pavillon-Treffpunkt, Bienenstand, Trampelpfad, Kartoffelacker auf Probe; Parkplatz als Störung. Regeln zum Integrieren, Verlagern und Verdrängen, Schutz „gewachsen“, Behebung von Störungen per Patenschaft oder Grün-Puffer, Stapel „verlorene Orte“.
+- Neue Fläche: Wiese an der Turnhalle (TG 1.2, 4 Punkte, geschätzt); Gemeinschaftsgarten als Kirchengrund mit Kapazität 4.
+- Ziel „Hälfte grün/offen“ entfällt (durch die Grundflächenzahl schon gesichert); neu: „Drei Grünorte gepflegt“ und „Kein gewachsener Ort geht verloren“.
+- Wohngenossenschaft: Wohnwiesen mit einzelnen Häuschen statt Wohnkarte mit festen 6 Plätzen; Flächenkonzepte Wohnwiese, Mobiles Wohnen (Probewohnen, eine Fläche) und Gemeinschaftsfläche (eine, frei gewählt); Gemeinschaftskarten Lastenradstation, Gemeinschaftshaus, Sauna ab 4 bzw. 8 Haushalten.
+- Verorten-Phase erzeugt Bestandsmarker aus grünen Punkten.
+- Regel-Simulation Lauf 5.
+- Kapazität der Wiese an der Turnhalle bestätigt; Plan B ohne die Ziele „Kein gewachsener Ort“ und „Jede Gruppe gelegt“.
+- Erweiterung „Wirtschaft & Wohnwiesengenossenschaft“ vorerst abgeschlossen; nächster Schritt: Zielformulierungen überarbeiten.
+- Flächennamen angepasst: TG 2 heißt „Tinyhouse Wiese“, TG 3 „Kulturzentrum 84“ (das Gebäude „Kulturzentrum 84 (Gebäude)“), Fläche p „Grünanlagen 84er“; TG 1.1, TG 1.2 und TG 2 stehen in der Flächenliste untereinander.
+- Quartiersziel „Treffpunkt in 5 Minuten“ entfernt (im kleinen Plangebiet immer erfüllt), dazu der Wollfaden im Material. „Hälfte grün/offen“ war schon entfernt.
+- Abschnitt Wohngenossenschaft: Punkt „So entstehen die Häuschen“ entfernt; Platzbedarf und Entstehung stehen in der Tabelle der Flächenkonzepte.
+
 ## 17.10.2026
 
 - Erweiterung „Wirtschaften und Wohnen“ als Entwurf im Regelwerk: auslaufende Fördermittel (2, 1, 0), Erträge wirtschaftender Orte (1 Mittel je Runde mit gebundener Kümmerzeit), Ausbau, Wohnprojekte mit Wohneinheiten, Kosten und Miete, Zuzug über Haushaltskarten, neue Kümmer-Chips durch Zuzug.

@@ -1,6 +1,6 @@
 # Wer baut Wolfen-Nord? – Regelwerk
 
-Stand: 17.10.2026 · Arbeitsstand, wird laufend überarbeitet (siehe [CHANGELOG](CHANGELOG.md))
+Stand: 18.10.2026 · Arbeitsstand, wird laufend überarbeitet (siehe [CHANGELOG](CHANGELOG.md))
 
 Ein kooperatives Planspiel auf dem Stadtplan des Quartiers 4.4. Die Teilnehmenden bauen und betreiben Orte, verhandeln um knappe Mittel und Kümmerzeit und gewinnen nur gemeinsam.
 
@@ -26,25 +26,46 @@ Der künstlerisch gestaltete Spielplan zeigt nur freigegebene Flächen und Gebä
 | Fläche | Bezeichnung im Bebauungsplan | Im Spiel | Kapazität (Vorschlag) | Herleitung |
 | --- | --- | --- | --- | --- |
 | Wiese an der Schule | TG 1.1 | Bauland | 6 | 1.635 m² überbaubar |
-| TG 2 | TG 2 | Bauland; Heckenumrandung im Plan weglassen | 5 | 1.316 m² überbaubar |
-| Fläche am 84er | TG 3 | Bauland (im Bebauungsplan experimentelles Mischgebiet) | 6 | 3.270 m² überbaubar, etwa die Hälfte frei |
+| Wiese an der Turnhalle | TG 1.2 | Bauland | 4 | geschätzt: TG 1.2 ohne Turnhalle (1.935 m² überbaubar), bestätigt |
+| Tinyhouse Wiese | TG 2 | Bauland; Heckenumrandung im Plan weglassen | 5 | 1.316 m² überbaubar |
+| Kulturzentrum 84 | TG 3 | Bauland (im Bebauungsplan experimentelles Mischgebiet) | 6 | 3.270 m² überbaubar, etwa die Hälfte frei |
 | Garagenhof | TG 4 | Bauland (im Bebauungsplan Mischgebiet) | 3 | 2.790 m² überbaubar, größtenteils Garagen |
 | Wiese am Spielplatz | M1 | Grünland, keine Wohnbebauung | 4 | geschätzt |
-| Grünfläche | p | Grünland | 4 | geschätzt |
-| Gemeinschaftsgarten | – | Grünland, grün markiert | 2 | geschätzt, Bestand |
+| Grünanlagen 84er | p (Park) | Grünland | 4 | geschätzt |
+| Gemeinschaftsgarten | – (Grundstück der Kirchengemeinde östlich von TG 1.2, außerhalb des Bebauungsplans) | Grünland, grün markiert; Nutzung verhandelbar | 4 | geschätzt, Platz für mehr |
 | Turnhalle | 1.2 | benutzbares Gebäude; blaue Linie im Plan kleiner zeichnen | 3 | geschätzt |
 
 ### Benutzbare Gebäude
 
 | Gebäude | Kapazität (Vorschlag) | Anmerkung |
 | --- | --- | --- |
-| Kulturzentrum 84 | 2 | geschätzt; zählt auch als Bestand („Begegnung“, „Jung“) |
+| Kulturzentrum 84 (Gebäude) | 2 | geschätzt; zählt auch als Bestand („Begegnung“, „Jung“) |
 | Garagen | 5 | 74 Garagen in 5 Gassen: A 6/7, B 7/7, C 7/8, D 8/9 westlich der Ausfahrtstraße, E 7/8 östlich; 1 Punkt je Gasse |
 | Christophorushaus, linke Hälfte | 2 | geschätzt |
 | Turnhalle | 3 | siehe oben |
 | Grünstraße 36 | 3 | geschätzt |
 
-Insgesamt ergeben sich etwa 45 Flächenpunkte. Die Nutzungsmöglichkeiten je Gebäude werden noch festgelegt.
+Insgesamt ergeben sich etwa 51 Flächenpunkte. Die Nutzungsmöglichkeiten je Gebäude werden noch festgelegt.
+
+### Bestand und Störungen
+
+Auf dem Plan liegen von Anfang an Bestandsmarker für gewachsene Nutzungen. Sie belegen Platz, zählen für den Kombinationsbonus und können verdrängt werden – das ist gewollt.
+
+| Bestand | Fläche | Tags | Platz | Besonderheit |
+| --- | --- | --- | --- | --- |
+| Gemeinschaftsgarten | Gemeinschaftsgarten | Grün, Essen, Begegnung | 1 | Treffpunkt; an Sommerabenden lebhaft – Störung für TG 1.2 |
+| Pavillon-Treffpunkt (ehemaliger Bauspielplatz) | TG 3 | Begegnung, Jung | 1 | Treffpunkt für Jugendliche verschiedener Altersgruppen; Müll – Störung für TG 3 und das 84er-Gelände |
+| Bienenstand | TG 3 | Grün, Handwerk | 1 | seit einem Jahr; Koexistenz mit dem Pavillon hat sich bewährt |
+| Trampelpfad | Grenze TG 1.1 / TG 1.2 | Weg | 1 | der prominenteste von mehreren Pfaden |
+| Kartoffelacker (auf Probe) | Nordostecke TG 1.2, südlich des Trampelpfads | Grün, Essen | 2 | seit 2026, noch nicht etabliert: Bleibt nur, wenn in Runde 1 jemand 1 Kümmerzeit bindet (die Stadt beobachtet noch); sonst wird er nach Runde 1 entfernt. Danach gilt er als normaler Kartoffelacker mit Ertrag. |
+
+Dazu kommt eine **Störung ohne Bestandsmarker:** der Parkplatz an der Turnhalle (Jeßnitzer Wende), Störung für TG 1.2.
+
+- **Neuer Bestand aus der Verorten-Phase:** Wo jemand einen grünen Punkt „hier bin ich gern“ klebt, darf ein leerer Bestandsmarker gesetzt werden.
+- **Bauen auf Bestand:** Reicht der Platz nicht, entscheidet die Gruppe: *integrieren* (anders planen, der Bestand bleibt), *verlagern* (der Bestand zieht auf eine andere Fläche; kostet 1 Kümmerzeit, weil jemand den Umzug organisiert) oder *verdrängen* (der Marker kommt auf den Stapel „verlorene Orte“, die Bleibenden verlieren 1 Kümmerzeit).
+- **Gewachsen:** Die Bleibenden können einen Bestandsmarker als „gewachsen“ schützen. Er kann dann weder verlagert noch verdrängt werden.
+- **Störungen:** Auf einer gestörten Fläche ziehen keine Haushalte ein. Behoben wird eine Störung durch eine Patenschaft (1 Kümmerzeit binden, etwa Müllpatenschaft oder Absprache mit dem Garten) oder durch eine Grünkarte als Puffer auf der betroffenen Fläche (etwa eine Hecke zum Parkplatz). Wird die Quelle verdrängt, verschwindet auch die Störung.
+- **Verdrängungsbilanz:** In der Auswertung liegen die Stapel „verlorene Orte“ und „verlorene Nachbarn“ nebeneinander.
 
 ## Material
 
@@ -64,13 +85,15 @@ Es gibt zwei knappe Ressourcen, Mittel und Kümmerzeit. Die Fläche begrenzt der
 | Quartiersziel-Karten | offen | drei werden gezogen | 8 |
 | Ereigniskarten | siehe Ereigniskarten | Störungen zwischen den Runden | 10 (+ 3 mit Erweiterung Genossenschaft) |
 | Sondermarker | „gewachsen“, Vetochip, „befristet“, „Stufe 2“, „Schieflage“ | Sonderregeln | je 1–3 |
-| Bewohner-Marker (Erweiterung) | kleine Figuren oder eigener Chip-Typ | belegte Wohneinheiten | ca. 15 |
+| Häuschen-, Wagen- und Bewohner-Marker (Erweiterung) | kleine Figuren; Häuschen und Wagen je ½ Flächenpunkt | Haushalte auf Wohnwiesen, im Mobilen Wohnen und im Block | ca. 20 |
+| Konzept-Marker (Erweiterung) | „Wohnwiese“, „Mobiles Wohnen“, „Gemeinschaftsfläche“ | Flächenkonzepte | 5 + 1 + 1 |
+| Gemeinschaftskarten (Erweiterung) | Lastenradstation, Gemeinschaftshaus, Sauna | nur auf der Gemeinschaftsfläche | 3 |
 | Haushaltskarten (Erweiterung) | offen aufgedeckt | Zuzug | 18 |
 | Sonderkarte „Wohnwiesengenossenschaft gründen“ (Erweiterung) | mit Kartentext, siehe dort | Voraussetzung für Wohnkarten | 1 |
-| Sonderkarte „Mitglied werden“ und Haus-Marker (Erweiterung) | eigene Häuschen-Figur je Person | Beitritt mit eigenem Tiny House | 4 |
+| Sonderkarte „Mitglied werden“ (Erweiterung) | eigene Häuschen-Figur je Person | Beitritt mit eigenem Tiny House | 4 |
+| Bestands- und Störungsmarker | vorbereitet (siehe Bestand und Störungen) + leere für die Verorten-Phase | gewachsene Nutzungen, Belastungen | 5 + 3 Störungen + 6 leere |
 | Genossenschaftskasse (Erweiterung) | Schale | Anteile, Mieten, Wohnkosten | 1 |
 | Washi-Tape | mehrere Farben | Wege, Kooperationen, Abhängigkeiten | – |
-| Wollfaden | standardisierte Länge für 5 Minuten Fußweg | Erreichbarkeit messen | 1 |
 | Klebepunkte | grün, gelb, rot | Verorten zu Beginn | je 1 Bogen |
 | Legende | Symbole, Kurzanleitung, Leitfragen | liegt am Tisch | 1 |
 | Kleber und Klebeband | – | Ergebnis fixieren | – |
@@ -124,15 +147,15 @@ Ziel ist, die Flächen erfolgreich aufzuteilen, zu kooperieren und Konflikte zu 
 Drei werden offen gezogen.
 
 - Drei Generationen nutzen mindestens einen Ort gemeinsam.
-- Von jeder Wohnkarte aus ist ein Treffpunkt in 5 Minuten erreichbar (mit dem standardisierten Wollfaden messen).
 - Mindestens ein Ort ist so ausgelegt, dass er auch nach Ende eines Förderprogramms weiterläuft.
 - Kein Chip bleibt unbenutzt, niemand ist übrig geblieben.
 - Es gibt einen Ort, der Einnahmen erzeugt (Hof, SoLaWi, Café).
 - Der 84er ist mit mindestens zwei Karten verbunden.
-- Mindestens die Hälfte der Fläche bleibt grün oder offen.
+- Mindestens drei Grünorte werden gepflegt, haben also gebundene Kümmerzeit.
+- Kein gewachsener Ort geht verloren (auch der Kartoffelacker auf Probe nicht).
 - Jede Gruppe hat mindestens eine Karte gelegt.
 
-Laut Simulation sind „Treffpunkt in 5 Minuten“, „Läuft nach Förderende“ und „Jede Gruppe gelegt“ zu leicht und sollten geschärft werden.
+Laut Simulation sind „Läuft nach Förderende“ und „Jede Gruppe gelegt“ zu leicht und sollten geschärft werden. Entfallen sind „Hälfte grün/offen“ (die niedrige Grundflächenzahl im Bebauungsplan stellt das schon sicher, und die Flächenkapazitäten bilden sie ab) und „Treffpunkt in 5 Minuten“ (im kleinen Plangebiet immer erfüllt).
 
 ### Geheime Wünsche
 
@@ -153,17 +176,17 @@ Orte können sich tragen – oder eben nicht. Diese Erweiterung macht sichtbar, 
 
 **Ausbau.** Statt eine neue Karte zu legen, kann man einen eigenen Ertragsort einmal ausbauen: +1 Mittel, +1 Kümmerzeit, +1 Flächenpunkt auf derselben Fläche. Der Ort bringt dann 1 Mittel mehr. Am Tisch: zweites Klötzchen oder Marker „Stufe 2“.
 
-**Wohnprojekte.** Wohnkarten dürfen erst gelegt werden, wenn die Wohnwiesengenossenschaft gegründet ist (siehe nächster Abschnitt). Sie gehören der Genossenschaft und haben Wohneinheiten und laufende Kosten:
+**Wohnprojekte.** Wohnen entsteht erst, wenn die Wohnwiesengenossenschaft gegründet ist (siehe nächster Abschnitt). Es gibt zwei Formen:
 
-| Karte | Wohneinheiten | Kosten je Runde | trägt sich ab |
+| Form | Plätze | Kosten | trägt sich ab |
 | --- | --- | --- | --- |
-| Umbau Leerstand (Block) | 8 | 2 Mittel | 2 Haushalten |
-| Gemeinschaftswohnen (Tiny Houses auf der Wiese) | 6 | 2 Mittel | 2 Haushalten |
+| Umbau Leerstand (Block, Baukarte) | 8 Wohnungen | 2 Mittel je Runde | 2 Haushalten |
+| Wohnwiese (Flächenkonzept, siehe Wohngenossenschaft) | je 2 Häuschen pro Flächenpunkt | Erschließung 2 Mittel + 1 Kümmerzeit, danach 1 Mittel je Runde | 1 Häuschen |
 
 - Jeder Haushalt zahlt 1 Mittel Miete je Runde in die Genossenschaftskasse. Ab Runde 2 werden Miete eingenommen und Kosten aus der Kasse bezahlt.
 - Kann die Kasse die Kosten nicht zahlen, gerät das Projekt in Schieflage (Marker). Beim zweiten Mal wird die Karte umgedreht.
 
-**Zuzug.** Nach jeder Bauphase deckt die Spielleitung 3 Haushaltskarten auf (Plan B: 2). Jeder Haushalt zieht nur ein, wenn es eine freie Wohneinheit gibt und auf derselben Fläche ein Ort mit seinem Tag steht. Sonst zieht er woanders hin und kommt auf den Stapel „verlorene Nachbarn“, der am Ende sichtbar auf dem Tisch liegt.
+**Zuzug.** Nach jeder Bauphase deckt die Spielleitung 3 Haushaltskarten auf (Plan B: 2). Jeder Haushalt zieht nur ein, wenn es einen freien Platz gibt, die Fläche nicht gestört ist und auf derselben Fläche ein Ort mit seinem Tag steht – oder eine Gemeinschaftskarte der Genossenschaft diesen Tag hat. Findet er nichts, kann er ins Mobile Wohnen (Probewohnen). Sonst zieht er woanders hin und kommt auf den Stapel „verlorene Nachbarn“, der am Ende sichtbar auf dem Tisch liegt.
 
 | Haushaltskarte | braucht in der Nähe | Anzahl im Stapel |
 | --- | --- | --- |
@@ -176,7 +199,7 @@ Orte können sich tragen – oder eben nicht. Diese Erweiterung macht sichtbar, 
 
 **Neue Nachbarn packen mit an.** Je zwei eingezogene Haushalte bringen 1 neuen Kümmer-Chip. Er kommt in den Kümmer-Pool der Genossenschaft und kann von allen für Bauvorhaben genutzt werden, wenn die Gruppe zustimmt. Diese Chips zählen beim Ziel „Kein Chip übrig“ nicht mit.
 
-**Mögliche neue Quartiersziele:** „Mindestens ein Wohnprojekt trägt sich“ (laut Simulation in ca. 95 % der Partien erreicht, also eher zu leicht) und „Höchstens zwei Haushalte verloren“ (noch nicht simuliert).
+**Mögliche neue Quartiersziele:** „Mindestens ein Wohnprojekt trägt sich“ (laut Simulation in ca. 95 % der Partien erreicht, also eher zu leicht), „Höchstens zwei Haushalte verloren“ (noch nicht simuliert) und „Die Genossenschaft erreicht die erste Schwelle“ (laut Lauf 5 in ca. drei Vierteln der Partien).
 
 ## Erweiterung: Wohngenossenschaft (17.10.2026)
 
@@ -198,15 +221,32 @@ Die Flächen sollen laut Begründung zum Bebauungsplan nicht in Einzelgrundstüc
 >
 > Dein Tiny House, deine Jurte – bei der Wohnwiesengenossenschaft. Du wohnst für dich und trägst mit allen.
 >
-> *Beitritt:* 1 Mittel Anteil + 1 Kümmerzeit (Gemeinschaftsstunden). Du stellst deinen Haus-Marker auf eine freie Einheit im Gemeinschaftswohnen und zahlst ab der nächsten Runde 1 Mittel Miete je Runde an die Wohnwiesengenossenschaft.
+> *Beitritt:* 1 Mittel Anteil + 1 Kümmerzeit (Gemeinschaftsstunden). Du stellst deinen Häuschen-Marker auf einen freien Platz einer Wohnwiese und zahlst ab der nächsten Runde 1 Mittel Miete je Runde an die Wohnwiesengenossenschaft.
 
 **Regeln**
 
 - **Gründung ist ein Zug:** Eine Person gründet und zahlt die 2 Mittel; die 3 Kümmerzeit kommen aus mindestens zwei Gruppen und liegen danach auf der Gründungskarte.
 - **Genossenschaftskasse:** eine Schale neben dem Plan. Hinein gehen Anteile und Mieten, heraus die laufenden Kosten der Wohnprojekte. Alle Gruppen dürfen einzahlen.
-- **Wohnkarten legen:** Eine Person legt die Wohnkarte im Namen der Genossenschaft und zahlt die Baukosten. Kümmerzeit darf aus dem Pool der Genossenschaft kommen.
+- **Für die Genossenschaft bauen:** Eine Person legt Karte oder Konzept-Marker im Namen der Genossenschaft und zahlt die Kosten. Kümmerzeit darf aus dem Pool der Genossenschaft kommen.
 - **Im Block mit der Wohnbaugesellschaft:** Den Umbau Leerstand können die Rahmengebenden bezahlen; die Genossenschaft übernimmt Belegung und Verwaltung (wie ein Generalmietvertrag).
-- **So entstehen die Häuschen:** Die Wohnkarte „Gemeinschaftswohnen“ steht für den gemeinsamen Grund mit Erschließung, Wasser, Strom und Gemeinschaftsflächen – sie stellt 6 Plätze bereit. Die Häuschen darauf entstehen einzeln: durch Mitglieder aus der Runde (Mitgliedskarte, eigener Haus-Marker) oder durch zuziehende Haushalte (Haushaltskarten, Bewohner-Marker). Ohne Wohnkarte kein Platz, ohne Genossenschaft keine Wohnkarte.
+
+**Flächenkonzepte.** Eine Baufläche kann mit einem Konzept-Marker belegt werden. Die Konzepte konkurrieren um die Flächen, andere Karten dürfen weiterhin dazugelegt werden (außer beim Mobilen Wohnen).
+
+| Konzept | wie oft | Kosten | Wirkung |
+| --- | --- | --- | --- |
+| Wohnwiese | beliebig | Erschließung 2 Mittel + 1 Kümmerzeit; danach 1 Mittel je Runde aus der Kasse | Platz für Häuschen (2 je Flächenpunkt). Mehrere kleine Wohnwiesen sind teurer als eine dichte. |
+| Mobiles Wohnen (Probewohnen) | genau eine Fläche | 1 Mittel | Wagen und mobile Tiny Houses (½ Punkt). Haushalte ziehen ohne Bedingung ein und zahlen 1 Mittel. Nach einer Runde bleiben sie, wenn irgendwo ein fester Platz frei ist (sie werden Mitglied), sonst ziehen sie weiter. Daneben nur Tauschschrank sowie Wege und Bänke. |
+| Gemeinschaftsfläche | genau eine Fläche, frei gewählt (auch ein Gebäude) | keine | Nur hier entstehen Gemeinschaftskarten. Sie wirken für alle Wohnflächen der Genossenschaft. |
+
+**Gemeinschaftskarten** werden mit der Zahl der Haushalte in der Genossenschaft (Häuschen + belegte Wohnungen im Block) freigeschaltet und vorrangig aus der Kasse bezahlt:
+
+| Gemeinschaftskarte | ab Haushalten | Mittel | Kümmerzeit | Platz | Tags | Ertrag |
+| --- | --- | --- | --- | --- | --- | --- |
+| Lastenradstation | 4 | 2 | 1 | 1 | Weg | – |
+| Gemeinschaftshaus mit Küche | 4 | 3 | 2 | 2 | Begegnung, Kinder, Alt | – |
+| Sauna und Wellness-Oase | 8 | 4 | 2 | 2 | Begegnung, Alt | 1 (Eintritt, in die Kasse) |
+
+Die Tags der Gemeinschaftskarten gelten für jede Wohnfläche der Genossenschaft. So zieht eine Lastenradstation auf der Gemeinschaftsfläche auch das „Paar ohne Auto“ auf eine entfernte Wohnwiese.
 - **Der Wunsch „Tiny House / Jurte“** ist erfüllt, wenn die Person Mitglied mit eigenem Haus-Marker ist.
 - **Plan B:** Die Genossenschaft besteht zu Spielbeginn schon (Kasse 2 Mittel). Mit so wenigen Personen kommt sonst kaum Wohnen zustande.
 
@@ -216,7 +256,7 @@ Jede Baukarte liegt genau einmal im Set. Kosten im Format Mittel / Kümmerzeit, 
 
 | Karte | Mittel | Kümmerzeit | Platz | Tags | Ertrag* |
 | --- | --- | --- | --- | --- | --- |
-| Kartoffelacker | 1 | 1 | 2 | Grün, Essen | 1 |
+| Kartoffelacker (liegt zu Beginn als Bestand auf Probe auf TG 1.2; Karte erst im Spiel, wenn er entfernt wurde) | 1 | 1 | 2 | Grün, Essen | 1 |
 | SoLaWi-Parzelle | 2 | 2 | 3 | Grün, Essen | 1 |
 | Blühwiese | 1 | 0 | 2 | Grün, Kinder | – |
 | Streuobstwiese | 1 | 1 | 2 | Grün, Alt | – |
@@ -234,7 +274,6 @@ Jede Baukarte liegt genau einmal im Set. Kosten im Format Mittel / Kümmerzeit, 
 | Rufbus / Haltestelle | 3 | 1 | 1 | Weg | – |
 | Beleuchtete Wege und Bänke | 2 | 0 | 1 | Weg, Alt | – |
 | Umbau Leerstand | 3 | 1 | 2 | Wohnen | Miete, 8 Einheiten |
-| Gemeinschaftswohnen (ca. 5–7 Tiny Houses) | 3 | 2 | 3 | Wohnen, Alt, Jung | Miete, 6 Einheiten |
 | Blankokarte | am Tisch mit der Spielleitung ausgehandelt | | | frei | |
 
 \* nur mit der Erweiterung „Wirtschaften und Wohnen“; Mittel je Runde ab Runde 2, nur mit gebundener Kümmerzeit.
@@ -244,7 +283,7 @@ Schon die Auswahl der Karten gewichtet. Wenig bekannte Konzepte wie SoLaWi oder 
 ## Ablauf Plan A (6–10 Personen)
 
 1. **Vorbereiten (5 min):** Spiel erklären, Gruppen und Story-Karten verteilen, Startausstattung ausgeben, drei Quartiersziele ziehen.
-2. **Verorten (10 min):** Klebepunkte setzen: grün „hier bin ich gern“, gelb „hier wohne ich“, rot „hier gehe ich nicht hin“.
+2. **Verorten (10 min):** Klebepunkte setzen: grün „hier bin ich gern“, gelb „hier wohne ich“, rot „hier gehe ich nicht hin“. Wo ein grüner Punkt einen Ort markiert, der noch nicht auf dem Plan ist, kommt ein leerer Bestandsmarker hin. Vorbereitete Bestands- und Störungsmarker kurz vorstellen.
 3. **Ideenmarkt (10 min):** Baukarten sichten, eigene Ideen auf Blankokarten entwickeln, Wunsch ziehen oder selbst formulieren. Mit der Erweiterung „Wohngenossenschaft“ liegen dort auch die Mitgliedskarten – die einzigen Karten, die es mehrfach gibt.
 4. **Drei Bauphasen (40 min):** Zu Beginn jeder Runde 1 Mittel pro Person. Jede Person legt eine Karte und bezahlt sie, danach folgt ein Ereignis. Mit der Erweiterung „Wirtschaften und Wohnen“: zu Beginn jeder Runde zuerst Erträge und Miete einnehmen, Wohnkosten zahlen, Fördermittel ausgeben; nach dem Bauen Haushaltskarten aufdecken, dann das Ereignis.
 5. **Konfliktrunde (15 min):** Doppelt belegte Felder teilen oder verlagern, Quartiersziele prüfen.
@@ -263,6 +302,7 @@ Entscheidungsregel: Sitzen zehn Minuten nach Beginn weniger als fünf Personen a
 - Die Teilnehmenden teilen die Bleibenden, die Ankommenden und die Kümmernden unter sich auf.
 - Ressourcen pro Kopf wie in Plan A, damit die Knappheit spürbar bleibt. Der volle Spielplan wird genutzt.
 - Zwei Bauphasen statt drei, die gewonnene Zeit fließt in die Konfliktrunde.
+- Die Quartiersziele „Kein gewachsener Ort geht verloren“ und „Jede Gruppe hat mindestens eine Karte gelegt“ werden vorher aus dem Zielstapel genommen; mit vier Personen sind sie laut Simulation kaum zu schaffen.
 - **Die Abwesenden als stille Mitspieler (auch in Plan A einsetzbar):** Die Bau-Elemente aus den Workshops oder ein bestimmtes Sortiment werden verdeckt gemischt. Jede Runde wird eines als „Antrag“ aufgedeckt: umsetzen, anpassen oder begründet ablehnen. Die Begründungen gehören ins Protokoll.
 
 **Plan C (1–2 Personen)**
@@ -296,7 +336,7 @@ Jede Karte hat eine klare Wirkung. Die Liste ist ein Arbeitsstand zum Testen.
 | Fläche nur für ein Jahr | Eine belegte Fläche wird ausgewählt und die Ereigniskarte daraufgelegt. Die Karte ist befristet und muss in der nächsten Runde verlängert oder verlagert werden; Diskussion im Rollenspiel. |
 | Sommerfest | Alle Begegnungsorte bringen 1 Mittel ein. |
 | Kita braucht Fläche | Ein Feld muss geräumt oder geteilt werden. |
-| Sanierung des Quartiers, Straßen- und Wegebau | Wohnkarten brauchen +1 Mittel, Mieter ziehen aus. Bei Gemeinschaftswohnen geht 1 Mittel-Chip weg, Einzelne haben die Option Hausverkauf. |
+| Sanierung des Quartiers, Straßen- und Wegebau | Wohnkarten brauchen +1 Mittel, Mieter ziehen aus. Bei der Genossenschaft geht 1 Mittel aus der Kasse weg; ein Haushalt im Block kann ausziehen. |
 | Bank verlangt Eigenkapital *(Genossenschaft)* | Ab jetzt dürfen neue Wohnkarten nur gelegt werden, wenn in der Genossenschaftskasse mindestens 3 Mittel liegen. |
 | Gründungsprüfung *(Genossenschaft)* | Der Prüfverband schaut genau hin: Ist die Genossenschaft von nur zwei Gruppen getragen, muss eine dritte Gruppe 1 Kümmerzeit beisteuern – sonst darf in der nächsten Runde keine Wohnkarte gelegt werden. |
 | Mitglied tritt aus *(Genossenschaft)* | Ein Haushalt zieht aus; die Kasse zahlt 1 Mittel Anteil zurück. |
@@ -325,6 +365,8 @@ Jeder Durchgang wird so festgehalten, dass sich alle Karten später übereinande
 - M1 ist laut Begründung zum Bebauungsplan eine Ausgleichsmaßnahme mit Gehölzpflanzung (ca. 625 m²) – passt dort Spielnutzung?
 - Nutzungsmöglichkeiten je Gebäude festlegen.
 - Kurs für den Kauf von Kümmerzeit mit Mitteln.
+- Kartoffelacker auf Probe: In der Simulation wird er in rund 70 % der Partien nicht in Runde 1 übernommen und geht verloren. Soll sein Ende beim Ziel „Kein gewachsener Ort geht verloren“ mitzählen?
+- Sauna und Wellness-Oase: In drei Runden praktisch nie erreicht. Schwelle oder Kosten senken – oder bewusst als Ausblick stehen lassen?
 - Name der Genossenschaft: Arbeitstitel „Wohnwiesengenossenschaft“ – hat Julia eine andere Idee? Sie verwaltet im Spiel auch den umgebauten Block.
 - Erweiterungen: Wer führt am Tisch die Kassen (Spielleitung oder eine Person aus der Gruppe)? Passen die zusätzlichen Phasen in 90 Minuten?
 - „Kein Chip übrig“ ist mit der Genossenschaft laut Simulation fast immer erreicht und muss neu gefasst werden.
