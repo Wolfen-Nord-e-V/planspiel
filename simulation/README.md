@@ -72,3 +72,27 @@ Alle Platzhalterwerte stehen oben in den Skripten (`ANNAHMEN`, `GRUPPEN`, `KARTE
 - **Der Ausbau wird genutzt** (gut einmal je Partie), ohne zu dominieren.
 - **Weiterhin zu viel Geld:** Am Ende bleiben rund 3 Mittel pro Person übrig, und „Hälfte grün/offen“ gelingt in der Empfehlung nur noch in 44 % der Partien. Als Nächstes testen: Förderung 1-1-0 oder 2-0-0.
 - **Plan B:** Mit 2 Haushalten je Runde bleibt die Belegung niedrig (37 %). In jeder zehnten Partie wird gar kein Wohnprojekt gebaut.
+
+## Lauf 4 – Wohngenossenschaft (17.10.2026)
+
+`lauf4_genossenschaft.py`, Ergebnisse in `lauf4_ergebnisse.json`. Baut auf Lauf 3 mit dessen Empfehlung auf (ein Exemplar je Karte, Wohnkosten 2, Ertrag 1) und ergänzt die [Erweiterung Wohngenossenschaft](../regelwerk.md#erweiterung-wohngenossenschaft-17102026): Gründung als Voraussetzung für Wohnkarten, gemeinsame Kasse, Kümmer-Pool, Beitritt mit eigenem Tiny House, drei neue Ereignisse. Je 1.500 Partien, 8 Personen, wenn nicht anders angegeben.
+
+| Szenario | Gewinnquote | gegründet | Wohnprojekte | tragen sich | umgedreht je Partie | Haushalte ein / verloren | Tiny-Wunsch erfüllt | Mittel übrig pro Person | „Hälfte grün“ erreicht |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| B: ohne Genossenschaft (= Lauf 3, Empfehlung) | 64 % | – | 2,0 | 88 % | 0,5 | 5,5 / 3,7 | 89 % | 3,0 | 45 % |
+| A: Genossenschaft, Förderung 2-1-0 | 73 % | 100 % | 1,9 | 77 % | 0,2 | 4,8 / 4,4 | 69 % | 2,1 | 52 % |
+| C: leichtere Gründung (2 Kümmerzeit, 1 Mittel) | 72 % | 100 % | 1,9 | 79 % | 0,4 | 4,7 / 4,4 | 80 % | 2,2 | 50 % |
+| D: schwerere Gründung (4 Kümmerzeit aus 3 Gruppen) | 77 % | 100 % | 1,9 | 76 % | 0,2 | 4,7 / 4,4 | 63 % | 2,0 | 57 % |
+| F: Förderung 2-0-0 | 78 % | 100 % | 1,8 | 78 % | 0,2 | 4,7 / 4,4 | 60 % | 1,6 | 69 % |
+| I: Wohnbau erst ab der Runde nach der Gründung | 74 % | 100 % | 1,6 | 62 % | 0,1 | 3,1 / 6,2 | 45 % | 2,2 | 61 % |
+| **M: Empfehlung** (Förderung 1-1-0) | **79 %** | **100 %** | **1,8** | **75 %** | **0,2** | **4,4 / 4,7** | **64 %** | **1,7** | **70 %** |
+| H: Plan B, Genossenschaft muss gegründet werden | 80 % | 92 % | 0,6 | 64 % | 0,1 | 1,0 / 5,4 | 13 % | 1,5 | 100 % |
+| **N: Empfehlung Plan B** (Genossenschaft besteht schon, 1-1-0, 2 Haushalte) | **82 %** | – | **1,0** | **71 %** | **0,2** | **2,0 / 4,3** | **50 %** | **1,6** | **100 %** |
+
+- **Die Gründung kommt rechnerisch immer in Runde 1 zustande**, selbst mit 4 Kümmerzeit aus 3 Gruppen. Kümmerzeit ist zu Beginn reichlich da. Die eigentliche Hürde am Tisch ist die Einigung, und die bildet die Simulation nicht ab. Die Standard-Hürde (3 aus 2 Gruppen) bleibt, damit das Ereignis „Gründungsprüfung“ Biss hat: Es sperrt in etwa jeder achten Partie eine Runde lang den Wohnbau.
+- **Die Genossenschaft stabilisiert die Wohnprojekte.** Die gemeinsame Kasse wirkt als Puffer: Statt 0,5 werden nur noch 0,2 Wohnprojekte je Partie umgedreht. Dafür ziehen etwas weniger Haushalte ein, weil Wohnen an die Gründung gebunden ist.
+- **Der Tiny-House-Wunsch wird anspruchsvoller** (89 % → 64 %): Er ist nur noch über die Mitgliedschaft erfüllbar. Das ist gewollt.
+- **Förderung 1-1-0 löst das Geldproblem aus Lauf 3.** Am Ende bleiben 1,7 statt 3,0 Mittel pro Person übrig, „Hälfte grün/offen“ gelingt in 70 % statt 45 % der Partien, die Gewinnquote steigt auf 79 %. 2-0-0 wirkt ähnlich.
+- **Wohnbau erst ab der Folgerunde kostet zu viel** (Belegung 35 %, Tiny-Wunsch 45 %) und wird nicht übernommen.
+- **Plan B braucht eine schon bestehende Genossenschaft.** Muss sie erst gegründet werden, entsteht kaum Wohnen (0,6 Projekte, Tiny-Wunsch 13 %).
+- **„Kein Chip übrig“ wird zu leicht** (98–99 %), weil die Gründung Kümmerzeit bindet und Zuzug-Chips im Genossenschafts-Pool landen. Das Ziel muss neu gefasst werden.
