@@ -10,6 +10,8 @@ Neueste Einträge oben.
 - Wohngenossenschaft: Wohnwiesen mit einzelnen Häuschen statt Wohnkarte mit festen 6 Plätzen; Flächenkonzepte Wohnwiese, Mobiles Wohnen (Probewohnen, eine Fläche) und Gemeinschaftsfläche (eine, frei gewählt); Gemeinschaftskarten Lastenradstation, Gemeinschaftshaus, Sauna ab 4 bzw. 8 Haushalten.
 - Verorten-Phase erzeugt Bestandsmarker aus grünen Punkten.
 - Regel-Simulation Lauf 5.
+- Kapazität der Wiese an der Turnhalle bestätigt; Plan B ohne die Ziele „Kein gewachsener Ort“ und „Jede Gruppe gelegt“.
+- Erweiterung „Wirtschaft & Wohnwiesengenossenschaft“ vorerst abgeschlossen; nächster Schritt: Zielformulierungen überarbeiten.
 
 ## 17.10.2026
 

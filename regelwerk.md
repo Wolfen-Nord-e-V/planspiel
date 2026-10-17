@@ -31,7 +31,7 @@ Der künstlerisch gestaltete Spielplan zeigt nur freigegebene Flächen und Gebä
 | Garagenhof | TG 4 | Bauland (im Bebauungsplan Mischgebiet) | 3 | 2.790 m² überbaubar, größtenteils Garagen |
 | Wiese am Spielplatz | M1 | Grünland, keine Wohnbebauung | 4 | geschätzt |
 | Grünfläche | p | Grünland | 4 | geschätzt |
-| Wiese an der Turnhalle | TG 1.2 | Bauland | 4 | geschätzt: TG 1.2 ohne Turnhalle (1.935 m² überbaubar) – bitte prüfen |
+| Wiese an der Turnhalle | TG 1.2 | Bauland | 4 | geschätzt: TG 1.2 ohne Turnhalle (1.935 m² überbaubar), bestätigt |
 | Gemeinschaftsgarten | – (Grundstück der Kirchengemeinde östlich von TG 1.2, außerhalb des Bebauungsplans) | Grünland, grün markiert; Nutzung verhandelbar | 4 | geschätzt, Platz für mehr |
 | Turnhalle | 1.2 | benutzbares Gebäude; blaue Linie im Plan kleiner zeichnen | 3 | geschätzt |
 
@@ -305,6 +305,7 @@ Entscheidungsregel: Sitzen zehn Minuten nach Beginn weniger als fünf Personen a
 - Die Teilnehmenden teilen die Bleibenden, die Ankommenden und die Kümmernden unter sich auf.
 - Ressourcen pro Kopf wie in Plan A, damit die Knappheit spürbar bleibt. Der volle Spielplan wird genutzt.
 - Zwei Bauphasen statt drei, die gewonnene Zeit fließt in die Konfliktrunde.
+- Die Quartiersziele „Kein gewachsener Ort geht verloren“ und „Jede Gruppe hat mindestens eine Karte gelegt“ werden vorher aus dem Zielstapel genommen; mit vier Personen sind sie laut Simulation kaum zu schaffen.
 - **Die Abwesenden als stille Mitspieler (auch in Plan A einsetzbar):** Die Bau-Elemente aus den Workshops oder ein bestimmtes Sortiment werden verdeckt gemischt. Jede Runde wird eines als „Antrag“ aufgedeckt: umsetzen, anpassen oder begründet ablehnen. Die Begründungen gehören ins Protokoll.
 
 **Plan C (1–2 Personen)**
@@ -367,7 +368,6 @@ Jeder Durchgang wird so festgehalten, dass sich alle Karten später übereinande
 - M1 ist laut Begründung zum Bebauungsplan eine Ausgleichsmaßnahme mit Gehölzpflanzung (ca. 625 m²) – passt dort Spielnutzung?
 - Nutzungsmöglichkeiten je Gebäude festlegen.
 - Kurs für den Kauf von Kümmerzeit mit Mitteln.
-- Kapazität der Wiese an der Turnhalle (TG 1.2) ist geschätzt (4 Punkte) – passt das?
 - Kartoffelacker auf Probe: In der Simulation wird er in rund 70 % der Partien nicht in Runde 1 übernommen und geht verloren. Soll sein Ende beim Ziel „Kein gewachsener Ort geht verloren“ mitzählen?
 - Sauna und Wellness-Oase: In drei Runden praktisch nie erreicht. Schwelle oder Kosten senken – oder bewusst als Ausblick stehen lassen?
 - Name der Genossenschaft: Arbeitstitel „Wohnwiesengenossenschaft“ – hat Julia eine andere Idee? Sie verwaltet im Spiel auch den umgebauten Block.
