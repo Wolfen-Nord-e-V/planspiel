@@ -229,7 +229,6 @@ Die Flächen sollen laut Begründung zum Bebauungsplan nicht in Einzelgrundstüc
 - **Genossenschaftskasse:** eine Schale neben dem Plan. Hinein gehen Anteile und Mieten, heraus die laufenden Kosten der Wohnprojekte. Alle Gruppen dürfen einzahlen.
 - **Für die Genossenschaft bauen:** Eine Person legt Karte oder Konzept-Marker im Namen der Genossenschaft und zahlt die Kosten. Kümmerzeit darf aus dem Pool der Genossenschaft kommen.
 - **Im Block mit der Wohnbaugesellschaft:** Den Umbau Leerstand können die Rahmengebenden bezahlen; die Genossenschaft übernimmt Belegung und Verwaltung (wie ein Generalmietvertrag).
-- **So entstehen die Häuschen:** Einzeln, als Marker mit ½ Flächenpunkt – durch Mitglieder aus der Runde (Mitgliedskarte, eigener Häuschen-Marker) oder durch zuziehende Haushalte (Haushaltskarten). Die Zahl ist nicht festgelegt; sie ergibt sich aus Platz und Nachfrage. Ohne erschlossene Wohnwiese kein Platz, ohne Genossenschaft keine Wohnwiese.
 
 **Flächenkonzepte.** Eine Baufläche kann mit einem Konzept-Marker belegt werden. Die Konzepte konkurrieren um die Flächen, andere Karten dürfen weiterhin dazugelegt werden (außer beim Mobilen Wohnen).
 
