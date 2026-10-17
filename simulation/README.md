@@ -96,3 +96,29 @@ Alle Platzhalterwerte stehen oben in den Skripten (`ANNAHMEN`, `GRUPPEN`, `KARTE
 - **Wohnbau erst ab der Folgerunde kostet zu viel** (Belegung 35 %, Tiny-Wunsch 45 %) und wird nicht übernommen.
 - **Plan B braucht eine schon bestehende Genossenschaft.** Muss sie erst gegründet werden, entsteht kaum Wohnen (0,6 Projekte, Tiny-Wunsch 13 %).
 - **„Kein Chip übrig“ wird zu leicht** (98–99 %), weil die Gründung Kümmerzeit bindet und Zuzug-Chips im Genossenschafts-Pool landen. Das Ziel muss neu gefasst werden.
+
+## Lauf 5 – Flächenkonzepte, Bestand und Verdrängung (18.10.2026)
+
+`lauf5_flaechen_bestand.py`, Ergebnisse in `lauf5_ergebnisse.json`. Baut auf Lauf 4 (Empfehlung M) auf. Neu: Wohnwiesen mit einzelnen Häuschen statt fester Wohnkarte, eine Fläche für Mobiles Wohnen (Probewohnen), eine frei gewählte Gemeinschaftsfläche mit Gemeinschaftskarten ab Schwellen, Bestand auf dem Plan (Gemeinschaftsgarten, Pavillon, Bienenstand, Trampelpfad, Kartoffelacker auf Probe), Störungen (Parkplatz, Garten, Pavillon) und die neuen Ziele „Drei Grünorte gepflegt“ und „Kein gewachsener Ort verloren“ statt „Hälfte grün/offen“. Neue Fläche: Wiese an der Turnhalle (TG 1.2, 4 Punkte, geschätzt). Je 1.500 Partien, 8 Personen, wenn nicht anders angegeben. Einzelne Szenarien lassen sich mit `python3 lauf5_flaechen_bestand.py L M` rechnen.
+
+| Szenario | Gewinnquote | Haushalte (davon Häuschen) | Wohnwiesen | Schwelle 1 / 2 erreicht | Probewohnen geblieben / weitergezogen | verloren | Bestand verlagert | Acker verloren | Kassen-Schieflage | Tiny-Wunsch |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| A: Basis (Schwellen 6/10, Erschließung laufend 2) | 73 % | 3,5 (3,5) | 3,5 | 21 % / 1 % | 0,1 / 3,7 | 2,5 | 0,6 | 73 % | 2,3 | 45 % |
+| B: Schwellen 4/8 | 72 % | 3,6 (3,6) | 3,5 | 54 % / 6 % | 0,1 / 3,4 | 2,6 | 0,6 | 73 % | 2,2 | 47 % |
+| C: ohne Mobiles Wohnen | 74 % | 3,3 (3,3) | 3,8 | 18 % / 0 % | – | 6,3 | 0,6 | 75 % | 2,6 | 40 % |
+| D: Erschließung laufend 1 | 74 % | 3,6 (3,5) | 3,6 | 22 % / 1 % | 0,1 / 3,7 | 2,3 | 0,6 | 74 % | 0,6 | 45 % |
+| F: ohne Bestand und Störungen | 83 % | 3,7 (3,7) | 3,9 | 24 % / 1 % | 0,1 / 2,3 | 3,5 | – | – | 2,4 | 37 % |
+| H: neue Wohnwiese erst ab 3 Häuschen auf jeder bestehenden | 79 % | 0,7 (0,6) | 1,0 | 1 % / 0 % | 0,0 / 5,7 | 3,2 | 0,6 | 59 % | 0,6 | 23 % |
+| I: nach Probewohnen bleiben, wenn irgendwo Platz frei | 72 % | 4,6 (4,5) | 3,6 | 44 % / 4 % | 1,4 / 2,5 | 2,4 | 0,6 | 75 % | 2,1 | 43 % |
+| **L: Empfehlung** (I + Schwellen 4/8 + Erschließung laufend 1) | **74 %** | **5,1 (4,4)** | **3,5** | **76 % / 24 %** | **1,7 / 1,9** | **2,6** | **0,6** | **71 %** | **0,5** | **44 %** |
+| **M: Empfehlung Plan B** (Genossenschaft besteht, 2 Haushalte) | **54 %** | **2,9 (2,7)** | **2,4** | **43 % / 0 %** | **0,8 / 0,9** | **2,6** | **0,4** | **83 %** | **0,5** | **24 %** |
+
+- **Probewohnen ist ohne Bleibe-Erleichterung eine Drehtür.** Wer nach einer Runde dieselbe Bedingung erfüllen muss wie ein Neuzuzug, zieht fast immer weiter (0,1 von 3,7). Darf man bleiben, sobald irgendwo ein fester Platz frei ist, wird jeder zweite Probehaushalt sesshaft. Ohne Mobiles Wohnen gehen dagegen 6,3 statt 2,5 Haushalte verloren.
+- **Die Schwellen 6/10 sind in drei Runden zu hoch.** Mit 4/8 und günstigerer Erschließung erreicht die Genossenschaft in drei Vierteln der Partien die erste Schwelle; Lastenradstation (46 %) und Gemeinschaftshaus (17 %) werden gebaut. Die Sauna kommt nie zustande: zu teuer für drei Runden.
+- **Erschließung als Fixkosten wirkt, aber anders als gedacht.** Die simulierten Spieler erschließen fast jede freie Baufläche (3,5 Wohnwiesen für 4–5 Häuschen) und bringen die Kasse bei laufenden Kosten 2 in Schieflage. Eine harte Regel „erst verdichten“ (H) würgt das Wohnen ganz ab. Mit laufenden Kosten 1 bleibt es tragbar; das Zusammenrücken muss am Tisch ausgehandelt werden.
+- **Die Wiese an der Turnhalle wird von selbst zum Ort fürs Mobile Wohnen** (in drei Vierteln der Partien), weil die Parkplatz-Störung dauerhaftes Wohnen dort ausbremst. Ohne Bestand und Störungen (F) wird TG 1.2 genauso oft Wohnwiese wie die anderen Flächen.
+- **Verdrängt wird in der Simulation nie, verlagert gut einmal in zwei Partien** – meist Pavillon und Bienenstand auf TG 3. Die simulierten Spieler weichen der Verdrängung aus, solange Verlagern möglich ist. Ob Menschen das auch tun, ist eine der spannendsten Fragen für den Testlauf.
+- **Der Kartoffelacker auf Probe geht in rund drei Vierteln der Partien verloren**, weil ihn in Runde 1 niemand übernimmt. Deshalb gelingt „Kein gewachsener Ort verloren“ nur in gut einem Viertel der Partien, wenn das Ziel gezogen wird, aber nicht gezielt verfolgt wird. Wird es verfolgt, steigt die Quote auf rund zwei Drittel.
+- **Die Störungen am Garten und am Pavillon werden fast immer per Patenschaft behoben** (über 90 %), die am Parkplatz nicht, weil dafür ein Grün-Puffer auf TG 1.2 nötig wäre.
+- **Die Gemeinschaftsfläche landet meist in einem Gebäude** (Garagen, Christophorushaus, Grünstraße 36, Turnhalle), fast nie auf TG 3, weil dort der Bestand Platz belegt.
+- **Plan B wird schwierig** (54 %): „Kein gewachsener Ort verloren“ und „Jede Gruppe gelegt“ scheitern häufig. Für Plan B sollten diese beiden Ziele nicht im Stapel sein.

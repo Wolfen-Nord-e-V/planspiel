@@ -2,6 +2,15 @@
 
 Neueste Einträge oben.
 
+## 18.10.2026
+
+- Bestand und Störungen auf dem Plan: Gemeinschaftsgarten, Pavillon-Treffpunkt, Bienenstand, Trampelpfad, Kartoffelacker auf Probe; Parkplatz als Störung. Regeln zum Integrieren, Verlagern und Verdrängen, Schutz „gewachsen“, Behebung von Störungen per Patenschaft oder Grün-Puffer, Stapel „verlorene Orte“.
+- Neue Fläche: Wiese an der Turnhalle (TG 1.2, 4 Punkte, geschätzt); Gemeinschaftsgarten als Kirchengrund mit Kapazität 4.
+- Ziel „Hälfte grün/offen“ entfällt (durch die Grundflächenzahl schon gesichert); neu: „Drei Grünorte gepflegt“ und „Kein gewachsener Ort geht verloren“.
+- Wohngenossenschaft: Wohnwiesen mit einzelnen Häuschen statt Wohnkarte mit festen 6 Plätzen; Flächenkonzepte Wohnwiese, Mobiles Wohnen (Probewohnen, eine Fläche) und Gemeinschaftsfläche (eine, frei gewählt); Gemeinschaftskarten Lastenradstation, Gemeinschaftshaus, Sauna ab 4 bzw. 8 Haushalten.
+- Verorten-Phase erzeugt Bestandsmarker aus grünen Punkten.
+- Regel-Simulation Lauf 5.
+
 ## 17.10.2026
 
 - Erweiterung „Wirtschaften und Wohnen“ als Entwurf im Regelwerk: auslaufende Fördermittel (2, 1, 0), Erträge wirtschaftender Orte (1 Mittel je Runde mit gebundener Kümmerzeit), Ausbau, Wohnprojekte mit Wohneinheiten, Kosten und Miete, Zuzug über Haushaltskarten, neue Kümmer-Chips durch Zuzug.
