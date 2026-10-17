@@ -2,6 +2,19 @@
 
 Neueste Einträge oben.
 
+## 17.10.2026
+
+- Erweiterung „Wirtschaften und Wohnen“ als Entwurf im Regelwerk: auslaufende Fördermittel (2, 1, 0), Erträge wirtschaftender Orte (1 Mittel je Runde mit gebundener Kümmerzeit), Ausbau, Wohnprojekte mit Wohneinheiten, Kosten und Miete, Zuzug über Haushaltskarten, neue Kümmer-Chips durch Zuzug.
+- Baukarten-Tabelle um Spalte „Ertrag“ ergänzt.
+- Regel-Simulation Lauf 3 mit Empfehlung: ein Exemplar je Karte, Wohnkosten 2, Ertrag 1, Zuzug-Chips zählen nicht für „Kein Chip übrig“.
+- Empfehlungen aus Lauf 3 übernommen: jede Baukarte nur einmal im Set, Wohnkosten 2, Ertrag 1.
+- Erweiterung „Wohngenossenschaft“: genau eine Genossenschaft, Sonderkarte „Wohngenossenschaft gründen“ mit Kartentext (Gründung: 3 Kümmerzeit aus mindestens 2 Gruppen + 2 Mittel), gemeinsame Kasse und Kümmer-Pool, Sonderkarte „Mitglied werden – mein eigenes Häuschen“, Zusammenarbeit mit der Wohnbaugesellschaft im Block. Wohnkarten nur noch über die Genossenschaft.
+- Drei neue Ereignisse: Bank verlangt Eigenkapital, Gründungsprüfung, Mitglied tritt aus.
+- Fördermittel jetzt 1-1-0 statt 2-1-0 (Befund Lauf 4).
+- Plan B: Genossenschaft besteht zu Spielbeginn.
+- Regel-Simulation Lauf 4 zur Wohngenossenschaft.
+- Mitgliedskarte: Text nennt die Wohnwiesengenossenschaft; liegt als einzige Karte mehrfach im Ideenmarkt; erklärt, wie die Häuschen auf der Wohnkarte entstehen.
+
 ## 15.10.2026
 
 - Repository angelegt: Regelwerk, Simulation, Änderungsliste.
