@@ -2,7 +2,7 @@
 
 Stand: 20.10.2026 · Grundlage: [Regelwerk](regelwerk.md), Plan A mit 8 Personen in vier Gruppen, beide Erweiterungen, drei Bauphasen.
 
-**Entschieden am 20.10.2026:** ein Zug pro Gruppe statt pro Person; die Bank macht die Kasse nebenher; die Genossenschaftskasse wird als Saldo abgerechnet. Offen bis zum Testlauf: Ereignis nach der letzten Runde, zwei oder drei Bauphasen als Standard.
+**Entschieden am 20.10.2026:** ein Zug pro Gruppe statt pro Person; die Bank macht die Kasse nebenher; die Genossenschaftskasse wird als Saldo abgerechnet; Wagen im Mobilen Wohnen zahlen jede Runde; Gruppenfiguren in vier Farben zeigen, wer einen Ort gebaut hat. Offen bis zum Testlauf: Ereignis nach der letzten Runde, zwei oder drei Bauphasen als Standard.
 
 Dieser Plan ist die Laufkarte für die Spielleitung: Was passiert als Nächstes, wer macht es, wie lange dauert es. Die Zeiten sind geschätzt und noch nicht am Tisch getestet.
 
@@ -39,7 +39,7 @@ Am Tisch:
 
 1. Moderation: Spiel in zwei Sätzen erklären („Ihr baut und betreibt Orte. Ihr gewinnt nur gemeinsam.“).
 2. Gruppen bilden oder Story-Karten verteilen.
-3. Bank: Startausstattung ausgeben (Bleibende 2/2, Ankommende 2/1, Rahmengebende 5/1, Kümmernde 1/4 – Mittel/Kümmerzeit) und Sondermarker (Bleibende „gewachsen“, Rahmengebende Vetochip).
+3. Bank: jeder Gruppe eine Farbe und ihre Spielfiguren geben, Startausstattung ausgeben (Bleibende 2/2, Ankommende 2/1, Rahmengebende 5/1, Kümmernde 1/4 – Mittel/Kümmerzeit) und Sondermarker (Bleibende „gewachsen“, Rahmengebende Vetochip).
 4. Drei Quartiersziele offen ziehen und laut vorlesen.
 
 ## 2 Verorten (10 min)
@@ -63,8 +63,8 @@ Die Reihenfolge ist in jeder Runde gleich. Was erst ab Runde 2 gilt, ist markier
 
 Die Bank arbeitet Schritt A ab, während die Moderation schon die erste Gruppe zum Bauen aufruft. Die Gruppe am Zug wartet nur, falls sie das Geld für ihren Zug braucht. In dieser Reihenfolge, damit Einnahmen vor Ausgaben kommen:
 
-1. **Erträge auszahlen** *(ab Runde 2)*: Jeder wirtschaftende Ort mit gebundener Kümmerzeit bringt 1 Mittel, mit „Stufe 2“ 2 Mittel. Die Bank legt die Chips direkt auf die Karte; die Gruppe, die den Ort gebaut hat, nimmt sie bei ihrem nächsten Zug mit. Die Sauna zahlt in die Genossenschaftskasse.
-2. **Genossenschaftskasse als Saldo** *(ab Runde 2)*: Haushalte zählen (je 1 Mittel Miete), Kosten abziehen (Block 2, je erschlossene Wohnwiese 1). Nur die Differenz wandert: Überschuss von der Bank in die Kasse, Fehlbetrag aus der Kasse an die Bank. Reicht die Kasse für den Fehlbetrag nicht: Marker „Schieflage“; beim zweiten Mal Karte umdrehen. Mitglieder am Tisch zahlen ihre Miete nicht einzeln – ihr Häuschen zählt einfach als Haushalt mit.
+1. **Erträge auszahlen** *(ab Runde 2)*: Jeder wirtschaftende Ort mit gebundener Kümmerzeit bringt 1 Mittel, mit „Stufe 2“ 2 Mittel. Die Bank legt die Chips direkt auf die Karte; die Gruppe, deren Figur daneben steht, nimmt sie bei ihrem nächsten Zug mit. Die Sauna zahlt in die Genossenschaftskasse.
+2. **Genossenschaftskasse als Saldo** *(ab Runde 2)*: Haushalte zählen – Häuschen, Wohnungen im Block und Wagen im Mobilen Wohnen (je 1 Mittel Miete) –, Kosten abziehen (Block 2, je erschlossene Wohnwiese 1). Nur die Differenz wandert: Überschuss von der Bank in die Kasse, Fehlbetrag aus der Kasse an die Bank. Reicht die Kasse für den Fehlbetrag nicht: Marker „Schieflage“; beim zweiten Mal Karte umdrehen. Mitglieder am Tisch zahlen ihre Miete nicht einzeln – ihr Häuschen zählt einfach als Haushalt mit.
 3. **Fördermittel ausgeben**: Runde 1: 1 Mittel je Mitglied der Gruppe, Runde 2: 1, Runde 3: 0. Moderation sagt dazu: „Die Förderung läuft aus.“
 4. **Probewohnen auflösen** *(ab Runde 2)*: Wagen im Mobilen Wohnen, die eine Runde da waren, ziehen auf einen freien festen Platz – oder kommen auf „verlorene Nachbarn“.
 5. **Befristete Fläche** *(nur nach dem Ereignis „Fläche nur für ein Jahr“)*: verlängern oder verlagern lassen.
@@ -73,7 +73,7 @@ Die Bank arbeitet Schritt A ab, während die Moderation schon die erste Gruppe z
 
 Reihum macht jede Gruppe einen Zug. Die Gruppe berät kurz gemeinsam und entscheidet, was sie legt; Mittel und Kümmerzeit der Gruppe liegen dafür zusammen. Mögliche Züge:
 
-- Baukarte legen (in Klötzchen stecken, Fläche bei den Rahmengebenden anfragen, Kosten zahlen, Kümmerzeit auf die Karte legen)
+- Baukarte legen (in Klötzchen stecken, Fläche bei den Rahmengebenden anfragen, Kosten zahlen, Kümmerzeit auf die Karte legen, Gruppenfigur danebenstellen)
 - Ertragsort ausbauen („Stufe 2“: +1 Mittel, +1 Kümmerzeit, +1 Platz)
 - Genossenschaft gründen (2 Mittel + 3 Kümmerzeit aus mindestens 2 Gruppen)
 - Flächenkonzept setzen (Wohnwiese, Mobiles Wohnen, Gemeinschaftsfläche) oder Gemeinschaftskarte bauen, wenn freigeschaltet
@@ -140,8 +140,6 @@ Gemeinsam eine Postkarte aus dem Quartier formulieren.
 
 **Lücken, die beim Ordnen aufgefallen sind:**
 
-- Wer einen Ertragsort gebaut hat, ist am Tisch nicht zu erkennen. Für das Auszahlen braucht es Klötzchen oder Aufkleber in Gruppenfarben.
-- Mobiles Wohnen: Zahlen die Wagen ihr 1 Mittel einmalig oder je Runde, und an wen?
 - Das Ereignis „Förderprogramm endet“ verdoppelt das ohnehin eingebaute Auslaufen der Förderung.
 - Das Ereignis „Zwanzig neue Nachbarn“ spricht noch von Wohnkarten.
 
@@ -153,6 +151,8 @@ Gemeinsam eine Postkarte aus dem Quartier formulieren.
 | Kasse nebenher | **übernommen** |
 | Kein Ereignis nach der letzten Runde | offen, bleibt vorerst drin (nur ca. 3 Minuten) |
 | Genossenschaftskasse als Saldo | **übernommen** |
+| Mobiles Wohnen: Wagen zahlen | **jede Runde 1 Mittel** an die Genossenschaftskasse, im Saldo enthalten |
+| Wer hat den Ort gebaut? | **Gruppenfiguren** in vier Farben neben jedem Ort |
 | Zwei Bauphasen als Standard, drei bei guter Zeit | Option, Entscheidung nach dem Testlauf |
 
 ## Laufkarte für den Tisch (Kurzform)

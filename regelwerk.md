@@ -78,6 +78,7 @@ Es gibt zwei knappe Ressourcen, Mittel und Kümmerzeit. Die Fläche begrenzt der
 | Mittel-Chips | runde Holzplättchen oder Steine | Geld und Fördermittel | Startausstattung + 1 pro Person und Runde |
 | Baukarten | gestempelt, mit Kosten, Platzbedarf und Tags | siehe Baukarten | je Karte ein Exemplar + Workshop-Ideen |
 | Holzklötzchen | mit Schlitz zum Reinstecken | Karten auf dem Plan positionieren | ca. 30 |
+| Gruppenfiguren | Spielfiguren in vier Farben, eine Farbe je Gruppe | zeigen, welche Gruppe einen Ort gebaut hat (wichtig für Erträge) | 4 × 6 |
 | Blankokarten | frei beschreibbar | eigene Ideen | 20 |
 | Knete (optional) | – | 3D-Objekte | – |
 | Story-Karten | siehe Rollen-Stories | Rollen | 8 |
@@ -137,7 +138,7 @@ Ziel ist, die Flächen erfolgreich aufzuteilen, zu kooperieren und Konflikte zu 
 - **Mittel kommen nach:** zu Beginn jeder Runde 1 pro Person; die Gruppe bekommt sie für alle ihre Mitglieder zusammen. Sie sind knapp, aber nicht der Flaschenhals. Mit der Erweiterung „Wirtschaften und Wohnen“ sinkt der Nachschub stattdessen über die Runden (siehe dort).
 - **Fläche ist knapp:** Jede Fläche hat eine Kapazität, jede Karte einen Platzbedarf. Es gibt mehr Karten als Platz.
 - **Ein Zug pro Gruppe:** Gebaut wird reihum gruppenweise. Die Gruppe berät gemeinsam und macht einen Zug; Mittel und Kümmerzeit der Gruppe liegen dafür zusammen. Verhandeln, Verleihen und Absprachen sind jederzeit erlaubt.
-- **Bauen:** Karte in ein Holzklötzchen stecken, auf eine freigegebene Fläche stellen, Kosten zahlen.
+- **Bauen:** Karte in ein Holzklötzchen stecken, auf eine freigegebene Fläche stellen, Kosten zahlen, eine Spielfigur in der Farbe der Gruppe danebenstellen.
 - **Kombinationsbonus:** Liegen zwei Karten mit gemeinsamem Tag nebeneinander, spart eine von beiden 1 Kümmerzeit; der Chip geht zurück. Das gilt auch zu bestehenden Orten wie dem 84er oder dem Gemeinschaftsgarten. So wird der Bestand Teil des Spiels.
 - **Konflikte:** Zwei Karten auf einem Feld haben genau zwei Auswege. Teilen: Was geteilt wird und wie sich das auf die Ziele auswirkt, handelt die Gruppe in der Konfliktrunde offen aus – so wie in der Realität. Verlagern: Die Karte wandert, die Gruppe bekommt 1 Mittel Entschädigung.
 - **Washi-Tape:** Wege, Kooperationen und Abhängigkeiten werden geklebt. So entsteht ein Netz statt einer Ansammlung von Punkten.
@@ -236,7 +237,7 @@ Die Flächen sollen laut Begründung zum Bebauungsplan nicht in Einzelgrundstüc
 | Konzept | wie oft | Kosten | Wirkung |
 | --- | --- | --- | --- |
 | Wohnwiese | beliebig | Erschließung 2 Mittel + 1 Kümmerzeit; danach 1 Mittel je Runde aus der Kasse | Platz für Häuschen (2 je Flächenpunkt). Mehrere kleine Wohnwiesen sind teurer als eine dichte. |
-| Mobiles Wohnen (Probewohnen) | genau eine Fläche | 1 Mittel | Wagen und mobile Tiny Houses (½ Punkt). Haushalte ziehen ohne Bedingung ein und zahlen 1 Mittel. Nach einer Runde bleiben sie, wenn irgendwo ein fester Platz frei ist (sie werden Mitglied), sonst ziehen sie weiter. Daneben nur Tauschschrank sowie Wege und Bänke. |
+| Mobiles Wohnen (Probewohnen) | genau eine Fläche | 1 Mittel | Wagen und mobile Tiny Houses (½ Punkt). Haushalte ziehen ohne Bedingung ein und zahlen 1 Mittel je Runde an die Genossenschaftskasse (zählen im Saldo als Haushalt). Nach einer Runde bleiben sie, wenn irgendwo ein fester Platz frei ist (sie werden Mitglied), sonst ziehen sie weiter. Daneben nur Tauschschrank sowie Wege und Bänke. |
 | Gemeinschaftsfläche | genau eine Fläche, frei gewählt (auch ein Gebäude) | keine | Nur hier entstehen Gemeinschaftskarten. Sie wirken für alle Wohnflächen der Genossenschaft. |
 
 **Gemeinschaftskarten** werden mit der Zahl der Haushalte in der Genossenschaft (Häuschen + belegte Wohnungen im Block) freigeschaltet und vorrangig aus der Kasse bezahlt:
@@ -371,7 +372,6 @@ Jeder Durchgang wird so festgehalten, dass sich alle Karten später übereinande
 - Name der Genossenschaft: Arbeitstitel „Wohnwiesengenossenschaft“ – hat Julia eine andere Idee? Sie verwaltet im Spiel auch den umgebauten Block.
 - Passen die Phasen in 90 Minuten? Laut Ablaufplan ca. 95–100 Minuten mit drei, ca. 80–85 mit zwei Bauphasen – der Testlauf entscheidet.
 - Ereignis nach der letzten Runde ziehen oder weglassen?
-- Woran erkennt man am Tisch, welche Gruppe einen Ertragsort gebaut hat (Gruppenfarben)?
 - „Kein Chip übrig“ ist mit der Genossenschaft laut Simulation fast immer erreicht und muss neu gefasst werden.
 - In der Simulation kommt die Gründung immer schon in Runde 1 zustande. Ob das am Tisch auch so ist, zeigt erst der Testlauf – dort liegt die Hürde in der Einigung, nicht in den Zahlen.
 - Rolle der Wege-Karten in der Spieldynamik.
