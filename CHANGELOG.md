@@ -2,6 +2,10 @@
 
 Neueste Einträge oben.
 
+## 19.10.2026
+
+- Ablaufplan für die Spielleitung: Rollen Moderation sowie Bank und Plan, feste Reihenfolge je Bauphase (Kasse, Bauen, Zuzug, Ereignis, Rundenabschluss), Zeitschätzung (Plan A ca. 110–125 min) und Vorschläge zum Vereinfachen.
+
 ## 18.10.2026
 
 - Bestand und Störungen auf dem Plan: Gemeinschaftsgarten, Pavillon-Treffpunkt, Bienenstand, Trampelpfad, Kartoffelacker auf Probe; Parkplatz als Störung. Regeln zum Integrieren, Verlagern und Verdrängen, Schutz „gewachsen“, Behebung von Störungen per Patenschaft oder Grün-Puffer, Stapel „verlorene Orte“.
