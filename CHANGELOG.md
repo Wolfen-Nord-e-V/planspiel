@@ -2,6 +2,13 @@
 
 Neueste Einträge oben.
 
+## 20.10.2026
+
+- Ein Zug pro Gruppe statt pro Person; „Neue Energie“ der Ankommenden ist ein zweiter Gruppenzug.
+- Die Bank macht die Kasse nebenher; Erträge werden auf die Karte gelegt.
+- Genossenschaftskasse wird als Saldo abgerechnet (Haushalte minus Kosten).
+- Offen bis zum Testlauf: Ereignis nach der letzten Runde, zwei oder drei Bauphasen als Standard.
+
 ## 19.10.2026
 
 - Ablaufplan für die Spielleitung: Rollen Moderation sowie Bank und Plan, feste Reihenfolge je Bauphase (Kasse, Bauen, Zuzug, Ereignis, Rundenabschluss), Zeitschätzung (Plan A ca. 110–125 min) und Vorschläge zum Vereinfachen.

@@ -1,6 +1,8 @@
 # Wer baut Wolfen-Nord? – Ablaufplan für die Spielleitung
 
-Stand: 19.10.2026 · Grundlage: [Regelwerk](regelwerk.md) vom 18.10.2026, Plan A mit 8 Personen, beide Erweiterungen, drei Bauphasen.
+Stand: 20.10.2026 · Grundlage: [Regelwerk](regelwerk.md), Plan A mit 8 Personen in vier Gruppen, beide Erweiterungen, drei Bauphasen.
+
+**Entschieden am 20.10.2026:** ein Zug pro Gruppe statt pro Person; die Bank macht die Kasse nebenher; die Genossenschaftskasse wird als Saldo abgerechnet. Offen bis zum Testlauf: Ereignis nach der letzten Runde, zwei oder drei Bauphasen als Standard.
 
 Dieser Plan ist die Laufkarte für die Spielleitung: Was passiert als Nächstes, wer macht es, wie lange dauert es. Die Zeiten sind geschätzt und noch nicht am Tisch getestet.
 
@@ -20,7 +22,7 @@ In Plan B spielt die Spielleitung zusätzlich die Rahmengebenden. Das sollte die
 | 1 | Vorbereiten | 5 min | Moderation, Bank |
 | 2 | Verorten | 10 min | Moderation |
 | 3 | Ideenmarkt | 10 min | Moderation |
-| 4 | Bauphasen 1–3, je Runde fünf Schritte | 3 × 20–25 min | beide |
+| 4 | Bauphasen 1–3, je Runde fünf Schritte | 3 × 13–16 min | beide |
 | 5 | Konfliktrunde | 15 min | Moderation |
 | 6 | Zeitsprung 2035 (optional) | 10 min | Moderation |
 | 7 | Auswertung und Abschluss | 10 min | beide |
@@ -57,26 +59,25 @@ Am Tisch:
 
 Die Reihenfolge ist in jeder Runde gleich. Was erst ab Runde 2 gilt, ist markiert.
 
-### Schritt A: Kasse (Bank, ca. 1 min in Runde 1, 3–4 min ab Runde 2)
+### Schritt A: Kasse (Bank, nebenher)
 
-In dieser Reihenfolge, damit Einnahmen vor Ausgaben kommen:
+Die Bank arbeitet Schritt A ab, während die Moderation schon die erste Gruppe zum Bauen aufruft. Die Gruppe am Zug wartet nur, falls sie das Geld für ihren Zug braucht. In dieser Reihenfolge, damit Einnahmen vor Ausgaben kommen:
 
-1. **Erträge auszahlen** *(ab Runde 2)*: Jeder wirtschaftende Ort mit gebundener Kümmerzeit bringt 1 Mittel an die Gruppe, die ihn gebaut hat; mit „Stufe 2“ 2 Mittel. Die Sauna zahlt in die Genossenschaftskasse.
-2. **Miete einnehmen** *(ab Runde 2)*: 1 Mittel je Haushalt in die Genossenschaftskasse. Mitglieder am Tisch zahlen selbst, für zugezogene Haushalte legt die Bank die Miete ein.
-3. **Wohnkosten zahlen** *(ab Runde 2)*: aus der Kasse 2 Mittel für den Block, 1 Mittel je erschlossener Wohnwiese. Reicht die Kasse nicht: Marker „Schieflage“; beim zweiten Mal Karte umdrehen.
-4. **Fördermittel ausgeben**: Runde 1: 1 Mittel pro Person, Runde 2: 1, Runde 3: 0. Moderation sagt dazu: „Die Förderung läuft aus.“
-5. **Probewohnen auflösen** *(ab Runde 2)*: Wagen im Mobilen Wohnen, die eine Runde da waren, ziehen auf einen freien festen Platz – oder kommen auf „verlorene Nachbarn“.
-6. **Befristete Fläche** *(nur nach dem Ereignis „Fläche nur für ein Jahr“)*: verlängern oder verlagern lassen.
+1. **Erträge auszahlen** *(ab Runde 2)*: Jeder wirtschaftende Ort mit gebundener Kümmerzeit bringt 1 Mittel, mit „Stufe 2“ 2 Mittel. Die Bank legt die Chips direkt auf die Karte; die Gruppe, die den Ort gebaut hat, nimmt sie bei ihrem nächsten Zug mit. Die Sauna zahlt in die Genossenschaftskasse.
+2. **Genossenschaftskasse als Saldo** *(ab Runde 2)*: Haushalte zählen (je 1 Mittel Miete), Kosten abziehen (Block 2, je erschlossene Wohnwiese 1). Nur die Differenz wandert: Überschuss von der Bank in die Kasse, Fehlbetrag aus der Kasse an die Bank. Reicht die Kasse für den Fehlbetrag nicht: Marker „Schieflage“; beim zweiten Mal Karte umdrehen. Mitglieder am Tisch zahlen ihre Miete nicht einzeln – ihr Häuschen zählt einfach als Haushalt mit.
+3. **Fördermittel ausgeben**: Runde 1: 1 Mittel je Mitglied der Gruppe, Runde 2: 1, Runde 3: 0. Moderation sagt dazu: „Die Förderung läuft aus.“
+4. **Probewohnen auflösen** *(ab Runde 2)*: Wagen im Mobilen Wohnen, die eine Runde da waren, ziehen auf einen freien festen Platz – oder kommen auf „verlorene Nachbarn“.
+5. **Befristete Fläche** *(nur nach dem Ereignis „Fläche nur für ein Jahr“)*: verlängern oder verlagern lassen.
 
-### Schritt B: Bauen (Moderation, ca. 12–16 min bei 8 Personen)
+### Schritt B: Bauen (Moderation, ca. 6–8 min bei vier Gruppen)
 
-Reihum legt jede Person einen Zug. Mögliche Züge:
+Reihum macht jede Gruppe einen Zug. Die Gruppe berät kurz gemeinsam und entscheidet, was sie legt; Mittel und Kümmerzeit der Gruppe liegen dafür zusammen. Mögliche Züge:
 
 - Baukarte legen (in Klötzchen stecken, Fläche bei den Rahmengebenden anfragen, Kosten zahlen, Kümmerzeit auf die Karte legen)
 - Ertragsort ausbauen („Stufe 2“: +1 Mittel, +1 Kümmerzeit, +1 Platz)
 - Genossenschaft gründen (2 Mittel + 3 Kümmerzeit aus mindestens 2 Gruppen)
 - Flächenkonzept setzen (Wohnwiese, Mobiles Wohnen, Gemeinschaftsfläche) oder Gemeinschaftskarte bauen, wenn freigeschaltet
-- Mitglied werden (1 Mittel + 1 Kümmerzeit, Häuschen auf eine Wohnwiese)
+- Mitglied werden (eine Person der Gruppe; 1 Mittel + 1 Kümmerzeit, Häuschen auf eine Wohnwiese)
 - Patenschaft übernehmen (1 Kümmerzeit, behebt eine Störung)
 - Kartoffelacker übernehmen *(nur Runde 1)*: 1 Kümmerzeit binden
 - Passen
@@ -88,7 +89,7 @@ Dabei prüft die Moderation bei jedem Zug:
 3. **Kombinationsbonus:** Gemeinsamer Tag mit dem Nachbarort? Dann geht 1 Kümmer-Chip zurück.
 4. **Doppelbelegung:** nicht jetzt lösen, Klötzchen markieren und in der Konfliktrunde besprechen.
 
-Die Ankommenden dürfen einmal eine zweite Karte pro Runde legen („Neue Energie“; ob einmal im Spiel oder in jeder Runde, ist im Regelwerk noch offen). Leitfrage beim Bauen: „Wer nutzt diesen Ort an einem Dienstagabend im Februar?“
+Die Ankommenden dürfen einmal einen zweiten Zug pro Runde machen („Neue Energie“; ob einmal im Spiel oder in jeder Runde, ist im Regelwerk noch offen). Zwischen den Zügen dürfen Gruppen jederzeit verhandeln, Chips verleihen und Absprachen treffen. Leitfrage beim Bauen: „Wer nutzt diesen Ort an einem Dienstagabend im Februar?“
 
 ### Schritt C: Zuzug (Bank, ca. 3 min)
 
@@ -101,6 +102,8 @@ Die Ankommenden dürfen einmal eine zweite Karte pro Runde legen („Neue Energi
 4. Haushalte zählen: Sind 4 oder 8 Haushalte erreicht, sind Gemeinschaftskarten ab der nächsten Runde freigeschaltet. Laut ansagen.
 
 ### Schritt D: Ereignis (Moderation liest, Bank setzt um, ca. 2–3 min)
+
+Ob nach der letzten Runde noch ein Ereignis gezogen wird, entscheidet der Testlauf.
 
 1. Eine Ereigniskarte ziehen und vorlesen. Genossenschafts-Ereignisse ohne Genossenschaft neu ziehen.
 2. Wirkung sofort umsetzen; wo die Gruppe entscheiden muss, kurz abstimmen lassen.
@@ -131,9 +134,9 @@ Gemeinsam eine Postkarte aus dem Quartier formulieren.
 
 ## Einschätzung: Zeit und Komplexität
 
-**Zeit.** Eine Bauphase mit allen fünf Schritten dauert bei acht Personen geschätzt 20–25 Minuten, davon allein 12–16 Minuten Bauen. Drei Runden ergeben 60–75 Minuten statt der eingeplanten 40. Mit Vorbereiten, Verorten, Ideenmarkt, Konfliktrunde und Auswertung kommt Plan A ohne Zeitsprung auf **etwa 110–125 Minuten** – deutlich über den 60–90 Minuten im Regelwerk.
+**Zeit.** Mit einem Zug pro Gruppe und der Kasse nebenher dauert eine Bauphase geschätzt 13–16 Minuten (Bauen 6–8, Zuzug 3, Ereignis 2–3, Abschluss 1, Kasse läuft parallel). Plan A kommt damit ohne Zeitsprung auf **etwa 95–100 Minuten** mit drei Bauphasen und **etwa 80–85 Minuten** mit zwei. Vorher, mit einem Zug pro Person, waren es 110–125 Minuten. Die Zahlen sind geschätzt; erst der Testlauf zeigt die echte Dauer.
 
-**Komplexität.** Die Schritte C bis E sind überschaubar, weil die Bank sie allein abarbeitet und die Gruppe nur zuschaut. Schwierig ist Schritt A: sechs Unterpunkte, drei verschiedene Empfänger (Gruppen, Genossenschaftskasse, Bank) und ab Runde 2 jedes Mal Rechnen. Schritt B ist der eigentliche Spielspaß, aber die Moderation muss bei jedem Zug vier Dinge prüfen.
+**Komplexität.** Die Schritte C bis E sind überschaubar, weil die Bank sie allein abarbeitet und die Gruppe nur zuschaut. Schritt A ist durch die Saldo-Rechnung auf eine Rechnung pro Runde geschrumpft und läuft im Hintergrund. Schritt B ist der eigentliche Spielspaß; die Moderation prüft bei jedem Zug vier Dinge, jetzt aber nur viermal pro Runde statt achtmal.
 
 **Lücken, die beim Ordnen aufgefallen sind:**
 
@@ -141,25 +144,24 @@ Gemeinsam eine Postkarte aus dem Quartier formulieren.
 - Mobiles Wohnen: Zahlen die Wagen ihr 1 Mittel einmalig oder je Runde, und an wen?
 - Das Ereignis „Förderprogramm endet“ verdoppelt das ohnehin eingebaute Auslaufen der Förderung.
 - Das Ereignis „Zwanzig neue Nachbarn“ spricht noch von Wohnkarten.
-- Ein Ereignis nach Runde 3 wirkt nur noch auf die Ziele.
 
-## Vorschläge zum Vereinfachen
+## Entscheidungen vom 20.10.2026
 
-Nach Wirkung geordnet; die ersten drei zusammen bringen Plan A in etwa auf 90 Minuten.
-
-1. **Ein Zug pro Gruppe statt pro Person.** Die Gruppe berät gemeinsam und legt eine Karte. Bauen dauert dann 6–8 statt 12–16 Minuten, und die Gruppen reden mehr miteinander. Die Mittel-Nachschübe würden dann pro Gruppe statt pro Person vergeben.
-2. **Kasse nebenher.** Die Bank macht Schritt A, während die Moderation schon die erste Person aufruft. Erträge legt die Bank direkt auf die Karte; die Gruppe nimmt sie beim nächsten Zug mit.
-3. **Kein Ereignis nach der letzten Runde.** Spart 3 Minuten und entspricht der Variante „erwartetes Ereignis nach Runde 1, Zufall nach Runde 2“.
-4. **Genossenschaftskasse als Saldo.** Statt Miete einzeln einzunehmen und Kosten einzeln zu zahlen: Haushalte minus Kosten, nur die Differenz wandert.
-5. **Zwei Bauphasen als Standard,** drei nur bei guter Zeit. Das Auslaufen der Förderung ginge dann 1-0.
+| Vorschlag | Entscheidung |
+| --- | --- |
+| Ein Zug pro Gruppe statt pro Person | **übernommen** |
+| Kasse nebenher | **übernommen** |
+| Kein Ereignis nach der letzten Runde | offen, bleibt vorerst drin (nur ca. 3 Minuten) |
+| Genossenschaftskasse als Saldo | **übernommen** |
+| Zwei Bauphasen als Standard, drei bei guter Zeit | Option, Entscheidung nach dem Testlauf |
 
 ## Laufkarte für den Tisch (Kurzform)
 
 ```
 RUNDE  1      2      3
-A  Kasse        –  Ertrag · Miete · Kosten · Förderung · Probewohnen
+A  Kasse      nebenher: Ertrag auf Karte · Saldo Genossenschaft · Förderung · Probewohnen
    Förderung   1      1      0
-B  Bauen      reihum ein Zug  (Platz · Veto · Bonus · Doppelt?)
+B  Bauen      reihum ein Zug je Gruppe  (Platz · Veto · Bonus · Doppelt?)
 C  Zuzug      3 Haushalte · je 2 → 1 Kümmer-Chip · Schwelle 4/8?
 D  Ereignis   ziehen · vorlesen · umsetzen
 E  Abschluss  (R1: Kartoffelacker?) · Foto · Zielstand
