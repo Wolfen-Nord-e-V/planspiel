@@ -2,6 +2,10 @@
 
 Neueste Einträge oben.
 
+## 27.10.2026
+
+- Ablaufplan um Plan B und Plan C ergänzt, dazu die Weiche zu Beginn; Fördermittel bei zwei Bauphasen und Ablage der Plan-C-Gespräche als offene Fragen.
+
 ## 20.10.2026
 
 - Ein Zug pro Gruppe statt pro Person; „Neue Energie“ der Ankommenden ist ein zweiter Gruppenzug.

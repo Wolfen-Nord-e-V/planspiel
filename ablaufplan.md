@@ -1,6 +1,18 @@
 # Wer baut Wolfen-Nord? – Ablaufplan für die Spielleitung
 
-Stand: 20.10.2026 · Grundlage: [Regelwerk](regelwerk.md), Plan A mit 8 Personen in vier Gruppen, beide Erweiterungen, drei Bauphasen.
+Stand: 27.10.2026 · Grundlage: [Regelwerk](regelwerk.md), beide Erweiterungen. Plan A ist ausführlich beschrieben (8 Personen in vier Gruppen, drei Bauphasen); [Plan B](#plan-b-35-personen) und [Plan C](#plan-c-12-personen) stehen am Ende und verweisen auf die Schritte von Plan A.
+
+## Weiche zu Beginn
+
+Zehn Minuten nach dem angekündigten Beginn zählt die Moderation die Personen am Tisch:
+
+| Personen | Ablauf |
+| --- | --- |
+| 6–10 | Plan A |
+| 3–5 | Plan B |
+| 1–2 | Plan C |
+
+Die Entscheidung gilt für den ganzen Durchgang. Wer später dazukommt, steigt in eine bestehende Gruppe ein (Vorschlag, noch nicht im Regelwerk).
 
 **Entschieden am 20.10.2026:** ein Zug pro Gruppe statt pro Person; die Bank macht die Kasse nebenher; die Genossenschaftskasse wird als Saldo abgerechnet; Wagen im Mobilen Wohnen zahlen jede Runde; Gruppenfiguren in vier Farben zeigen, wer einen Ort gebaut hat. Offen bis zum Testlauf: Ereignis nach der letzten Runde, zwei oder drei Bauphasen als Standard.
 
@@ -15,7 +27,7 @@ Dieser Plan ist die Laufkarte für die Spielleitung: Was passiert als Nächstes,
 
 In Plan B spielt die Spielleitung zusätzlich die Rahmengebenden. Das sollte die Person „Bank und Plan“ übernehmen, damit die Moderation frei bleibt.
 
-## Gesamtablauf
+## Gesamtablauf Plan A
 
 | Nr. | Phase | Dauer | Wer |
 | --- | --- | --- | --- |
@@ -165,4 +177,88 @@ B  Bauen      reihum ein Zug je Gruppe  (Platz · Veto · Bonus · Doppelt?)
 C  Zuzug      3 Haushalte · je 2 → 1 Kümmer-Chip · Schwelle 4/8?
 D  Ereignis   ziehen · vorlesen · umsetzen
 E  Abschluss  (R1: Kartoffelacker?) · Foto · Zielstand
+```
+
+## Plan B (3–5 Personen)
+
+Gleicher Ablauf wie Plan A, mit diesen Änderungen:
+
+- **Rollen:** Die Person „Bank und Plan“ spielt zusätzlich die Rahmengebenden (Startausstattung 5/1, Flächenvergabe, Vetochip). Die Moderation zieht die Ereignisse. Die Teilnehmenden teilen Bleibende, Ankommende und Kümmernde unter sich auf; bei vier oder fünf Personen hat eine Gruppe zwei Mitglieder.
+- **Ressourcen:** pro Kopf wie in Plan A, damit die Knappheit spürbar bleibt. Voller Spielplan.
+- **Genossenschaft besteht von Beginn an,** Kasse mit 2 Mitteln. Die Gründungskarte liegt schon offen neben dem Plan, der Zug „Genossenschaft gründen“ entfällt.
+- **Zwei Bauphasen** statt drei. Die gewonnene Zeit geht in die Konfliktrunde.
+- **Zuzug:** 2 Haushaltskarten je Runde statt 3.
+- **Zielstapel:** Vor dem Ziehen kommen „Kein gewachsener Ort geht verloren“ und „Jede Gruppe hat mindestens eine Karte gelegt“ heraus.
+- **Stille Mitspieler:** Jede Runde deckt die Moderation einen „Antrag“ aus den Bau-Elementen der Workshops auf. Die Gruppe entscheidet: umsetzen, anpassen oder begründet ablehnen. Die Bank notiert die Begründung.
+
+### Ablauf Plan B
+
+| Nr. | Phase | Dauer | Änderung gegenüber Plan A |
+| --- | --- | --- | --- |
+| 1 | Vorbereiten | 5 min | Rahmengebende an die Spielleitung, Genossenschaft offen hinlegen, zwei Ziele aus dem Stapel nehmen |
+| 2 | Verorten | 10 min | – |
+| 3 | Ideenmarkt | 10 min | Workshop-Elemente für die Anträge verdeckt mischen |
+| 4 | Bauphasen 1–2 | 2 × 14–16 min | siehe unten |
+| 5 | Konfliktrunde | 20–25 min | mehr Zeit, auch für die abgelehnten Anträge |
+| 6 | Zeitsprung 2035 (optional) | 10 min | – |
+| 7 | Auswertung und Abschluss | 10 min | Begründungen der Anträge vorlesen |
+
+Ohne Zeitsprung etwa **85 Minuten**, geschätzt.
+
+### Eine Bauphase in Plan B
+
+| Schritt | Was | Dauer |
+| --- | --- | --- |
+| A Kasse | wie Plan A, nebenher; Förderung nach Runde siehe unten | – |
+| B Antrag | Moderation deckt einen Antrag auf; Gruppe entscheidet; bei „umsetzen“ oder „anpassen“ legt ihn eine Gruppe als ihren Zug | 2 min |
+| B Bauen | reihum Bleibende, Ankommende, Kümmernde und die Rahmengebenden (Spielleitung) – vier Züge | 6–8 min |
+| C Zuzug | 2 Haushaltskarten | 2 min |
+| D Ereignis | Moderation zieht | 2–3 min |
+| E Abschluss | nach Runde 1 Kartoffelacker prüfen, Foto, Zielstand | 1 min |
+
+**Spielleitung als Rahmengebende:** Die Bank spielt die Rolle offen und begründet Entscheidungen laut („Als Stadt sage ich …“), damit klar ist, wann sie Mitspielerin ist und wann Spielleitung.
+
+**Offen für Plan B:** Fördermittel bei zwei Bauphasen – 1-1 wie in den ersten beiden Runden von Plan A, oder 1-0, damit das Auslaufen spürbar wird? Bis zur Entscheidung gilt 1-1.
+
+### Laufkarte Plan B
+
+```
+START      Rahmengebende = Bank · Geno offen (Kasse 2) · 2 Ziele raus
+RUNDE      1      2
+A  Kasse   nebenher wie Plan A
+   Antrag  aufdecken · umsetzen / anpassen / begründet ablehnen
+B  Bauen   Bleibende · Ankommende · Kümmernde · Rahmengebende
+C  Zuzug   2 Haushalte
+D  Ereignis
+E  Abschluss (R1: Kartoffelacker?) · Foto · Zielstand
+```
+
+## Plan C (1–2 Personen)
+
+Kein Spiel, sondern ein Kartengespräch. Keine Chips, keine Runden, keine Ereignisse. Ergebnis wie bei einem Leitfadeninterview mit Karte; eine Sprachnotiz ersetzt das Protokoll.
+
+**Rollen:** Eine Person führt das Gespräch, die andere legt Karten, macht Fotos und kümmert sich um die Sprachnotiz – oder ist für weitere Gäste am Stand frei.
+
+| Nr. | Schritt | Dauer | Was passiert |
+| --- | --- | --- | --- |
+| 1 | Ankommen | 3 min | Spiel in einem Satz erklären. Fragen, ob eine Sprachnotiz aufgenommen werden darf; nur mit Einverständnis starten. |
+| 2 | Verorten | 5–10 min | Klebepunkte setzen (grün, gelb, rot). Leitfragen: „Wo bist du gern? Wo gehst du nicht hin? Welcher Ort fehlt dir auf dem Weg vom Wohnhaus zum Einkaufen?“ |
+| 3 | Ideenmarkt | 10 min | Zwei, drei Baukarten aussuchen oder eine Blankokarte schreiben und auf den Plan legen. Leitfrage: „Was müsste hier sein, damit du in zehn Jahren noch hier wohnen willst?“ |
+| 4 | Fehlende Perspektiven | 5–10 min | Die Gesprächsführung fragt aus Sicht der Gruppen, die nicht am Tisch sitzen, z. B. mit einer Story-Karte: „Wer schließt hier morgens auf?“, „Wem gehört die Fläche?“, „Was ginge für Renate verloren?“ |
+| 5 | Ernte | 3–5 min | „Was davon können wir morgen selbst anfangen, was geht nur mit Partnern, was braucht die Stadt?“ |
+| 6 | Festhalten | 2 min | Foto von oben, Sprachnotiz beenden und benennen (Datum, Uhrzeit, Plan C, Anzahl Personen). |
+
+Ein Gespräch dauert damit etwa **30–40 Minuten**, geschätzt. Am Stand sind also mehrere Gespräche nacheinander möglich.
+
+**Offen für Plan C:** Auf welchem Plan werden die Gespräche festgehalten – auf einem eigenen Ausdruck, oder nur fotografiert, damit der Plan für den nächsten Durchgang frei bleibt?
+
+### Laufkarte Plan C
+
+```
+1 Ankommen      Einverständnis Sprachnotiz
+2 Verorten      Punkte · Leitfragen Verorten
+3 Ideenmarkt    2–3 Karten legen
+4 Perspektiven  Story-Karten: Wer fehlt am Tisch?
+5 Ernte         selbst · mit Partnern · Stadt
+6 Festhalten    Foto · Sprachnotiz benennen
 ```
