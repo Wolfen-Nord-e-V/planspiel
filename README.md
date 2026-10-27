@@ -11,6 +11,7 @@ Das Spiel wird vom Wolfen Nord e.V. für das Zukunftslabor „Unsere Nachbarscha
 | Datei | Inhalt |
 | --- | --- |
 | [regelwerk.md](regelwerk.md) | Spielplan, Material, Rollen, Regeln, Baukarten, Ziele, Wünsche, Ablauf, Ereignisse |
+| [ablaufplan.md](ablaufplan.md) | Laufkarte für die Spielleitung: Phasen, Schritte je Bauphase, Zeiten, Vereinfachungen |
 | [CHANGELOG.md](CHANGELOG.md) | Was sich mit jeder Iteration geändert hat |
 | [simulation/](simulation/) | Regel-Simulation in Python mit Ergebnissen und Befunden |
 

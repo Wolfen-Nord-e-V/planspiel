@@ -2,6 +2,19 @@
 
 Neueste Einträge oben.
 
+## 20.10.2026
+
+- Ein Zug pro Gruppe statt pro Person; „Neue Energie“ der Ankommenden ist ein zweiter Gruppenzug.
+- Die Bank macht die Kasse nebenher; Erträge werden auf die Karte gelegt.
+- Genossenschaftskasse wird als Saldo abgerechnet (Haushalte minus Kosten).
+- Mobiles Wohnen: Wagen zahlen jede Runde 1 Mittel an die Genossenschaftskasse.
+- Neues Material: Gruppenfiguren in vier Farben, damit erkennbar ist, welche Gruppe einen Ort gebaut hat.
+- Offen bis zum Testlauf: Ereignis nach der letzten Runde, zwei oder drei Bauphasen als Standard.
+
+## 19.10.2026
+
+- Ablaufplan für die Spielleitung: Rollen Moderation sowie Bank und Plan, feste Reihenfolge je Bauphase (Kasse, Bauen, Zuzug, Ereignis, Rundenabschluss), Zeitschätzung (Plan A ca. 110–125 min) und Vorschläge zum Vereinfachen.
+
 ## 18.10.2026
 
 - Bestand und Störungen auf dem Plan: Gemeinschaftsgarten, Pavillon-Treffpunkt, Bienenstand, Trampelpfad, Kartoffelacker auf Probe; Parkplatz als Störung. Regeln zum Integrieren, Verlagern und Verdrängen, Schutz „gewachsen“, Behebung von Störungen per Patenschaft oder Grün-Puffer, Stapel „verlorene Orte“.
