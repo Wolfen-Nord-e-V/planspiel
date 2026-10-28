@@ -2,9 +2,13 @@
 
 Neueste Einträge oben.
 
+## 28.10.2026
+
+- Plan B: Fördermittel bei zwei Bauphasen 1-1.
+
 ## 27.10.2026
 
-- Ablaufplan um Plan B und Plan C ergänzt, dazu die Weiche zu Beginn; Fördermittel bei zwei Bauphasen und Ablage der Plan-C-Gespräche als offene Fragen.
+- Ablaufplan um Plan B und Plan C ergänzt, dazu die Weiche zu Beginn; Ablage der Plan-C-Gespräche als offene Fragen.
 
 ## 20.10.2026
 

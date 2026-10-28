@@ -1,6 +1,6 @@
 # Wer baut Wolfen-Nord? – Ablaufplan für die Spielleitung
 
-Stand: 27.10.2026 · Grundlage: [Regelwerk](regelwerk.md), beide Erweiterungen. Plan A ist ausführlich beschrieben (8 Personen in vier Gruppen, drei Bauphasen); [Plan B](#plan-b-35-personen) und [Plan C](#plan-c-12-personen) stehen am Ende und verweisen auf die Schritte von Plan A.
+Stand: 28.10.2026 · Grundlage: [Regelwerk](regelwerk.md), beide Erweiterungen. Plan A ist ausführlich beschrieben (8 Personen in vier Gruppen, drei Bauphasen); [Plan B](#plan-b-35-personen) und [Plan C](#plan-c-12-personen) stehen am Ende und verweisen auf die Schritte von Plan A.
 
 ## Weiche zu Beginn
 
@@ -209,7 +209,7 @@ Ohne Zeitsprung etwa **85 Minuten**, geschätzt.
 
 | Schritt | Was | Dauer |
 | --- | --- | --- |
-| A Kasse | wie Plan A, nebenher; Förderung nach Runde siehe unten | – |
+| A Kasse | wie Plan A, nebenher; Förderung 1 je Person in beiden Runden | – |
 | B Antrag | Moderation deckt einen Antrag auf; Gruppe entscheidet; bei „umsetzen“ oder „anpassen“ legt ihn eine Gruppe als ihren Zug | 2 min |
 | B Bauen | reihum Bleibende, Ankommende, Kümmernde und die Rahmengebenden (Spielleitung) – vier Züge | 6–8 min |
 | C Zuzug | 2 Haushaltskarten | 2 min |
@@ -218,7 +218,7 @@ Ohne Zeitsprung etwa **85 Minuten**, geschätzt.
 
 **Spielleitung als Rahmengebende:** Die Bank spielt die Rolle offen und begründet Entscheidungen laut („Als Stadt sage ich …“), damit klar ist, wann sie Mitspielerin ist und wann Spielleitung.
 
-**Offen für Plan B:** Fördermittel bei zwei Bauphasen – 1-1 wie in den ersten beiden Runden von Plan A, oder 1-0, damit das Auslaufen spürbar wird? Bis zur Entscheidung gilt 1-1.
+**Fördermittel bei zwei Bauphasen:** 1-1, wie in den ersten beiden Runden von Plan A (entschieden am 28.10.2026). Mit so wenigen Personen passiert auf dem Plan ohnehin wenig.
 
 ### Laufkarte Plan B
 
